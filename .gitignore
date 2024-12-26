@@ -1,2 +1,6 @@
 # Scripts
 *.py
+*.pyc
+
+# Keep tests
+!tests/*
