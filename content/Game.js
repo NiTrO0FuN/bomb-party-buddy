@@ -66,6 +66,15 @@ class Game {
   constructor(inputNode) {
     this.input = inputNode;
     this.paused = false;
+    this.speed = 2; // Between 1 and 5
+  }
+
+  speedUp() {
+    this.speed = Math.min(this.speed + 1, 5);
+  }
+
+  speedDown() {
+    this.speed = Math.max(this.speed - 1, 1);
   }
 
   async setLang(language) {
@@ -120,7 +129,7 @@ class Game {
     for (const word in this.words) {
       if (word.includes(this.syllable) && this.words[word]) {
         this.words[word] = 0;
-        await new Promise((r) => setTimeout(r, Math.random() * 100 + 500));
+        await new Promise((r) => setTimeout(r, Math.random() * 100 + 1000 / this.speed));
         return word;
       }
     }
@@ -134,7 +143,7 @@ class Game {
     if (lastIsMistake) {
       this.input.value = this.input.value.slice(0, -1);
       this.input.dispatchEvent(new InputEvent("input"));
-      this.typingId = setTimeout(() => this.typeWord(word, false), Math.random() * 400); // 400
+      this.typingId = setTimeout(() => this.typeWord(word, false), Math.random() * 800 / this.speed); // 400
       return;
     }
 
@@ -149,7 +158,7 @@ class Game {
     this.input.dispatchEvent(new InputEvent("input"));
     this.typingId = setTimeout(
       () => this.typeWord(isMistake ? word : word.substring(1), isMistake),
-      Math.random() * 400 // 400
+      Math.random() * 800 / this.speed // 400
     );
   }
 
