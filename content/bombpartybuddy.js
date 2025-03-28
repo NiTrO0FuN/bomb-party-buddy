@@ -48,6 +48,10 @@ async function setupBuddy() {
     if (ev.altKey && ev.key == "w") {
       game.paused = !game.paused;
       console.log("Buddy " + (game.paused ? "paused" : "on"));
+    } else if(ev.altKey && ev.key == "ArrowUp") {
+      game.speedUp();
+    } else if(ev.altKey && ev.key == "ArrowDown") {
+      game.speedDown();
     }
   });
 }
