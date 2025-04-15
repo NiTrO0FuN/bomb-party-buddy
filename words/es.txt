@@ -25183,7 +25183,6 @@ egrese
 eguar
 eh
 eidetico
-ej.
 ejabre
 ejabrir
 ejarbe
@@ -31706,7 +31705,6 @@ etamina
 etano
 etapa
 etario
-etc.
 etcetera
 eter
 etereo
@@ -44950,7 +44948,6 @@ mauseolo
 mauser
 mausoleo
 mavorcio
-max.
 maxilar
 maxime
 maximice

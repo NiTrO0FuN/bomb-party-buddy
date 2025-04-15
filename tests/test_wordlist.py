@@ -28,3 +28,9 @@ def test_no_empty_lines():
     for words in get_words():
         for w in words:
             assert len(w) > 0
+
+# check for non-letters
+def test_no_non_letters():
+    for words in get_words():
+        for w in words:
+            assert w.isalpha()
