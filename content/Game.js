@@ -88,10 +88,11 @@ class Game {
       console.log(`${language} is not an available language!`);
     }
 
+    this.used = {};
     if (this.words && this.lang === langCodes[language]) return;
     this.lang = langCodes[language];
     this.words = await Game.getWords(this.lang);
-    console.log(`Bomb party buddy loaded in ${this.lang}!`);
+    console.log(`Bomb party buddy loaded in ${this.lang}! (${this.words.length} words)`);
   }
 
   static async getWords(lang) {
@@ -104,19 +105,25 @@ class Game {
       url = chrome.runtime.getURL("../words/es.txt");
     }
 
-    let words = {};
     if (url) {
       const res = await fetch(url);
       const text = await res.text();
-      text
-        .split("\n")
-        .map((word) => word.trim())
-        .sort((a, b) => a.length - b.length)
-        .forEach((word) => (words[word] = 1));
-    }
-    return words;
-  }
 
+      function shuffle(array) {
+        for (let i = array.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [array[i], array[j]] = [array[j], array[i]];
+        }
+        return array
+      }
+
+      return shuffle(text
+        .split("\n")
+        .map((word) => word.trim())) 
+    }
+    return [];
+  }
+  
   async playTurn() {
     if (this.paused) return;
     if (this.typingId) clearTimeout(this.typingId);
@@ -126,9 +133,9 @@ class Game {
   }
 
   async getWord() {
-    for (const word in this.words) {
-      if (word.includes(this.syllable) && this.words[word]) {
-        this.words[word] = 0;
+    for (const word of this.words) {
+      if (!this.used[word] && word.includes(this.syllable)) {
+        this.used[word] = 1;
         await new Promise((r) => setTimeout(r, Math.random() * 100 + 1000 / this.speed));
         return word;
       }
@@ -164,6 +171,6 @@ class Game {
 
   // listener
   onCorrectWord(word) {
-    this.words[word] = 0;
+    this.used[word] = 1;
   }
 }
