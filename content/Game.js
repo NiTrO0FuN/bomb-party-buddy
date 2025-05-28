@@ -117,9 +117,18 @@ class Game {
         return array
       }
 
-      return shuffle(text
+      // Shuffle all the words with less than 7 letters
+      const smallText = text
         .split("\n")
-        .map((word) => word.trim())) 
+        .map((word) => word.trim())
+        .filter((word) => word.length <= 7);
+
+      const bigText = text
+        .split("\n")
+        .map((word) => word.trim())
+        .filter((word) => word.length > 7);
+
+      return shuffle(smallText).concat(bigText)
     }
     return [];
   }
