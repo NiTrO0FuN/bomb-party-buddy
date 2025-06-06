@@ -4,3 +4,6 @@
 
 # Keep tests
 !tests/*
+
+# Keep utils
+!utils.py
