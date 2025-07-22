@@ -34,3 +34,9 @@ def test_no_non_letters():
     for words in get_words():
         for w in words:
             assert w.isalpha()
+
+# check for non-ascii characters
+def test_no_non_ascii():
+    for words in get_words():
+        for w in words:
+            assert all(ord(c) < 128 for c in w)

@@ -82,17 +82,19 @@ class Game {
       English: "en",
       French: "fr",
       Spanish: "es",
+      'Brazilian Portuguese': "pt-br",
     };
 
-    if (!language in langCodes) {
+    if (!(language in langCodes)) {
       console.log(`${language} is not an available language!`);
+      return;
     }
 
     this.used = {};
     if (this.words && this.lang === langCodes[language]) return;
     this.lang = langCodes[language];
     this.words = await Game.getWords(this.lang);
-    console.log(`Bomb party buddy loaded in ${this.lang}! (${this.words.length} words)`);
+    console.log(`Bomb party buddy loaded in ${language} (${this.lang})! (${this.words.length} words)`);
   }
 
   static async getWords(lang) {
@@ -103,6 +105,8 @@ class Game {
       url = chrome.runtime.getURL("../words/fr.txt");
     } else if (lang == "es") {
       url = chrome.runtime.getURL("../words/es.txt");
+    } else if (lang == "pt-br") {
+      url = chrome.runtime.getURL("../words/pt-br.txt");
     }
 
     if (url) {
