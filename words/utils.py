@@ -1,17 +1,17 @@
 import os
 import argparse
+import unicodedata
 
 def clean_txt_files():
     files = [f for f in os.listdir("./") if f.endswith(".txt")]
 
     for f in files:
         print(f)
-        with open(f, "r") as file:
+        with open(f, "r", encoding="utf-8") as file:
             words = file.read().split("\n")
-            words = [w for w in words if " " not in w and len(w) > 0]
-
+        words = [unicodedata.normalize("NFKD", w).encode("ascii", "ignore").decode("ascii") for w in words if " " not in w and len(w) > 0]
         words = list(set(words)) # remove duplicate
-        words = [w for w in words if w.isalpha()] # remove non-letters
+        words = [w for w in words if w.isalpha() and w.islower()] # remove non-letters
         words.sort() # sort
 
         with open(f, "w") as file:
@@ -24,9 +24,9 @@ def combine_words(source_file, language):
         return
 
     # Read words from source file
-    with open(source_file, "r") as sf:
+    with open(source_file, "r", encoding="utf-8") as sf:
         source_words = sf.read().split("\n")
-        source_words = [w for w in source_words if " " not in w and len(w) > 0 and w.isalpha()]
+        source_words = [unicodedata.normalize("NFKD", w).encode("ascii", "ignore").decode("ascii") for w in source_words if " " not in w and len(w) > 0 and w.isalpha() and w.islower()]
 
     # Read words from language file
     with open(lang_file, "r") as lf:
