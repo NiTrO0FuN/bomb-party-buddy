@@ -3,7 +3,7 @@
 
   "name": "__MSG_extensionName__",
   "description": "__MSG_extensionDescription__",
-  "version": "1.2.4",
+  "version": "1.3",
   "browser_specific_settings": {
     "gecko": {
       "id": "bombpartybuddy@nitrofun.eu"
@@ -17,6 +17,13 @@
     "96": "icons/icon96.png"
   },
 
+  "action": {
+    "default_icon": {
+      "48": "icons/icon48.png",
+      "96": "icons/icon96.png"
+    }
+  },
+
   "content_scripts": [
     {
       "matches": ["*://*.jklm.fun/*"],
@@ -24,6 +31,10 @@
       "all_frames": true
     }
   ],
+
+  "background": {
+    "scripts": ["background/handler.js"]
+  },
 
   "web_accessible_resources": [
     {

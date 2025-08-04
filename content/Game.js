@@ -67,6 +67,21 @@ class Game {
     this.input = inputNode;
     this.paused = false;
     this.speed = 2; // Between 1 and 5
+    this.myTurn = false;
+    this.#updateIcon();
+  }
+
+  #updateIcon() {
+    chrome.runtime.sendMessage({
+      type: "updateIcon",
+      status: this.paused ? "OFF" : "ON",
+    });
+  }
+
+  togglePause() {
+    this.paused = !this.paused;
+    this.#updateIcon();
+    if(!this.paused && !this.typingId && this.myTurn) this.playTurn();
   }
 
   speedUp() {
@@ -140,6 +155,7 @@ class Game {
   async playTurn() {
     if (this.paused) return;
     if (this.typingId) clearTimeout(this.typingId);
+    this.typingId = -1; // Waiting for the word to be fetched
     const word = await this.getWord();
     if (!word) return;
     this.typeWord(word);
@@ -158,6 +174,7 @@ class Game {
   typeWord(word, lastIsMistake) {
     if (!word) {
       this.input.parentNode.requestSubmit();
+      this.typingId = null;
       return;
     }
     if (lastIsMistake) {

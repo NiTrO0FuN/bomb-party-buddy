@@ -26,6 +26,7 @@ async function setupBuddy() {
     if (!event.origin.endsWith("jklm.fun")) return;
 
     const data = event.data;
+    if("myTurn" in data) game.myTurn = data.myTurn;
     if (data.type === "setup") {
       await game.setLang(data.language);
       if (data.myTurn) {
@@ -46,14 +47,17 @@ async function setupBuddy() {
 
   window.addEventListener("keydown", function (ev) {
     if (ev.altKey && ev.key == "w") {
-      game.paused = !game.paused;
-      console.log("Buddy " + (game.paused ? "paused" : "on"));
+      game.togglePause();
     } else if(ev.altKey && ev.key == "ArrowUp") {
       game.speedUp();
     } else if(ev.altKey && ev.key == "ArrowDown") {
       game.speedDown();
     }
   });
+
+  chrome.runtime.onMessage.addListener((message) => {
+    if (message.type === "togglePause") game.togglePause();
+  })
 }
 
 if (isBombPartyFrame()) {
