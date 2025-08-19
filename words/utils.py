@@ -11,10 +11,10 @@ def clean_txt_files():
             words = file.read().split("\n")
         words = [unicodedata.normalize("NFKD", w).encode("ascii", "ignore").decode("ascii") for w in words if " " not in w and len(w) > 0]
         words = list(set(words)) # remove duplicate
-        words = [w for w in words if w.isalpha() and w.islower()] # remove non-letters
+        words = [w for w in words if w.isalpha() and w.islower()] # remove non-letters and proper nouns
         words.sort() # sort
 
-        with open(f, "w") as file:
+        with open(f, "w", encoding="utf-8") as file:
             file.write("\n".join(words))
 
 def combine_words(source_file, language):

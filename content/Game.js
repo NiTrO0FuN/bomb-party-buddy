@@ -98,10 +98,12 @@ class Game {
       French: "fr",
       Spanish: "es",
       'Brazilian Portuguese': "pt-br",
+      German: "de",
     };
 
     if (!(language in langCodes)) {
       console.log(`${language} is not an available language!`);
+      this.lang = ""
       return;
     }
 
@@ -122,6 +124,8 @@ class Game {
       url = chrome.runtime.getURL("../words/es.txt");
     } else if (lang == "pt-br") {
       url = chrome.runtime.getURL("../words/pt-br.txt");
+    } else if (lang == "de") {
+      url = chrome.runtime.getURL("../words/de.txt");
     }
 
     if (url) {
@@ -154,6 +158,7 @@ class Game {
   
   async playTurn() {
     if (this.paused) return;
+    if (!this.lang) return;
     if (this.typingId) clearTimeout(this.typingId);
     this.typingId = -1; // Waiting for the word to be fetched
     const word = await this.getWord();
