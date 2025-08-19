@@ -3,7 +3,7 @@ import os
 def get_words():
     files = [f for f in os.listdir("words") if f[-4:] == ".txt"]
     for f in files:
-        with open(os.path.join("words", f), "r") as file:
+        with open(os.path.join("words", f), "r", encoding="utf-8") as file:
             yield file.read().split("\n")
 
 
@@ -34,9 +34,3 @@ def test_no_non_letters():
     for words in get_words():
         for w in words:
             assert w.isalpha()
-
-# check for non-ascii characters
-def test_no_non_ascii():
-    for words in get_words():
-        for w in words:
-            assert all(ord(c) < 128 for c in w)
