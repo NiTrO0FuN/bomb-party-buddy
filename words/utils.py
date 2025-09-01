@@ -1,6 +1,11 @@
 import os
 import argparse
 import unicodedata
+import re
+
+def is_correct(word):
+    pattern = r'^[a-z]+(-[a-z]+)*$'
+    return bool(re.match(pattern, word))
 
 def clean_txt_files():
     files = [f for f in os.listdir("./") if f.endswith(".txt")]
@@ -11,7 +16,7 @@ def clean_txt_files():
             words = file.read().split("\n")
         words = [unicodedata.normalize("NFKD", w).encode("ascii", "ignore").decode("ascii") for w in words if " " not in w and len(w) > 0]
         words = list(set(words)) # remove duplicate
-        words = [w for w in words if w.isalpha() and w.islower()] # remove non-letters and proper nouns
+        words = [w for w in words if is_correct(w)] # remove non-letters and proper nouns
         words.sort() # sort
 
         with open(f, "w", encoding="utf-8") as file:
@@ -26,12 +31,12 @@ def combine_words(source_file, language):
     # Read words from source file
     with open(source_file, "r", encoding="utf-8") as sf:
         source_words = sf.read().split("\n")
-        source_words = [unicodedata.normalize("NFKD", w).encode("ascii", "ignore").decode("ascii") for w in source_words if " " not in w and len(w) > 0 and w.isalpha() and w.islower()]
+        source_words = [unicodedata.normalize("NFKD", w).encode("ascii", "ignore").decode("ascii") for w in source_words if " " not in w and is_correct(w)]
 
     # Read words from language file
     with open(lang_file, "r") as lf:
         lang_words = lf.read().split("\n")
-        lang_words = [w for w in lang_words if " " not in w and len(w) > 0 and w.isalpha()]
+        lang_words = [w for w in lang_words if " " not in w and is_correct(w)]
 
     # Combine, deduplicate, sort
     combined = list(set(lang_words + source_words))
