@@ -1,4 +1,5 @@
 import os
+import re
 
 def get_words():
     files = [f for f in os.listdir("words") if f[-4:] == ".txt"]
@@ -30,7 +31,10 @@ def test_no_empty_lines():
             assert len(w) > 0
 
 # check for non-letters
-def test_no_non_letters():
+def test_no_incorrect_word():
+    def is_correct(word):
+        pattern = r'^[a-z]+(-[a-z]+)*$'
+        return bool(re.match(pattern, word))
     for words in get_words():
         for w in words:
-            assert w.isalpha()
+            assert is_correct(w)
