@@ -1,3 +1,11 @@
+const LANGS = {
+  English: "en",
+  French: "fr",
+  Spanish: "es",
+  "Brazilian Portuguese": "pt-br",
+  German: "de",
+}
+
 class Game {
   static getKeyNeighbours(lang) {
     const keyNeighbours = {
@@ -93,39 +101,23 @@ class Game {
   }
 
   async setLang(language) {
-    const langCodes = {
-      English: "en",
-      French: "fr",
-      Spanish: "es",
-      'Brazilian Portuguese': "pt-br",
-      German: "de",
-    };
-
-    if (!(language in langCodes)) {
+    if (!(language in LANGS)) {
       console.log(`${language} is not an available language!`);
       this.lang = ""
       return;
     }
 
     this.used = {};
-    if (this.words && this.lang === langCodes[language]) return;
-    this.lang = langCodes[language];
+    if (this.words && this.lang === LANGS[language]) return;
+    this.lang = LANGS[language];
     this.words = await Game.getWords(this.lang);
     console.log(`Bomb party buddy loaded in ${language} (${this.lang})! (${this.words.length} words)`);
   }
 
   static async getWords(lang) {
     let url = "";
-    if (lang == "en") {
-      url = chrome.runtime.getURL("../words/en.txt");
-    } else if (lang == "fr") {
-      url = chrome.runtime.getURL("../words/fr.txt");
-    } else if (lang == "es") {
-      url = chrome.runtime.getURL("../words/es.txt");
-    } else if (lang == "pt-br") {
-      url = chrome.runtime.getURL("../words/pt-br.txt");
-    } else if (lang == "de") {
-      url = chrome.runtime.getURL("../words/de.txt");
+    if (Object.values(LANGS).includes(lang)) {
+      url = chrome.runtime.getURL(`../words/${lang}.txt`);
     }
 
     if (url) {
@@ -208,4 +200,33 @@ class Game {
   onCorrectWord(word) {
     this.used[word] = 1;
   }
+  async onFailedWord(myTurn, failedWord, reason) {
+    if(this.words.includes(failedWord) && reason == "notInDictionary") {
+      const invalids = (await chrome.storage.local.get(`invalid:${this.lang}`))[`invalid:${this.lang}`] || []
+      invalids.push(failedWord)
+      await chrome.storage.local.set({ [`invalid:${this.lang}`]: invalids });
+      const lastSent = (await chrome.storage.local.get("lastSent:invalid"))["lastSent:invalid"]
+      if(!lastSent || Date.now() - lastSent > 24 * 60 * 60 * 1000) this.reportInvalidWords();
+    }
+    if (myTurn) game.playTurn();
+  }
+
+  async reportInvalidWords() {
+    const invalidWords = {}
+    for(const [_, lang] of Object.entries(LANGS)) {
+      const words = (await chrome.storage.local.get(`invalid:${lang}`))[`invalid:${lang}`]
+      if (words) invalidWords[lang] = Array.from(new Set(words));
+      await chrome.storage.local.remove(`invalid:${lang}`);
+    }
+    await chrome.storage.local.set({ "lastSent:invalid": Date.now() });
+    await fetch("https://api.nitrofun.eu/bombpartybuddy/report/invalid", {
+      method: "POST",
+      body: JSON.stringify( invalidWords ),
+      headers: {
+        "Content-Type": "application/json"
+      }
+    });
+  }
 }
+
+
