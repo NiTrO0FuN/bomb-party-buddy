@@ -36,7 +36,7 @@ async function setupBuddy() {
     } else if (data.type === "correctWord") {
       game.onCorrectWord(data.word);
     } else if (data.type === "failWord") {
-      if (data.myTurn) game.playTurn();
+      game.onFailedWord(data.myTurn, data.word, data.reason)
     } else if (data.type === "nextTurn") {
       if (data.myTurn) {
         game.syllable = data.syllable;
