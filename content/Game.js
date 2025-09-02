@@ -115,15 +115,9 @@ class Game {
   }
 
   static async getWords(lang) {
-    let url = "";
-    if (Object.values(LANGS).includes(lang)) {
-      url = chrome.runtime.getURL(`../words/${lang}.txt`);
-    }
+    const text = await getLatestWordlist(lang)
 
-    if (url) {
-      const res = await fetch(url);
-      const text = await res.text();
-
+    if (text) {
       function shuffle(array) {
         for (let i = array.length - 1; i > 0; i--) {
             const j = Math.floor(Math.random() * (i + 1));
@@ -196,7 +190,7 @@ class Game {
     );
   }
 
-  // listener
+  // listeners
   onCorrectWord(word) {
     this.used[word] = 1;
   }
@@ -229,4 +223,22 @@ class Game {
   }
 }
 
-
+async function getLatestWordlist(lang) {
+  if (!Object.values(LANGS).includes(lang)) return;
+  let url = "";
+  url = chrome.runtime.getURL(`../words/${lang}.txt`);
+  const localRes = await fetch(url);
+  const buff = await localRes.clone().arrayBuffer();
+  const hash =  Array.from(new Uint8Array(await crypto.subtle.digest({name: 'SHA-256'}, buff)))
+                  .map(b => b.toString(16).padStart(2, '0')).join('');
+  let res = await fetch("https://api.nitrofun.eu/bombpartybuddy/wordlist/latest")
+  let text = ""
+  if (res.ok) {
+    const latestHash = (await res.json())[lang]
+    if (latestHash != hash) {
+      res = await fetch(`https://raw.githubusercontent.com/NiTrO0FuN/bomb-party-buddy/refs/heads/main/words/${lang}.txt`)
+      if (res.ok) text = await res.text()
+    }
+  }
+  return text || localRes.text()
+}
