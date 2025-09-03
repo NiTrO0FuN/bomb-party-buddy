@@ -202,7 +202,7 @@ class Game {
       const lastSent = (await chrome.storage.local.get("lastSent:invalid"))["lastSent:invalid"]
       if(!lastSent || Date.now() - lastSent > 24 * 60 * 60 * 1000) this.reportInvalidWords();
     }
-    if (myTurn) game.playTurn();
+    if (myTurn) this.playTurn();
   }
 
   async reportInvalidWords() {
