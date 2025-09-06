@@ -1,9 +1,10 @@
 const LANGS = {
+  "Brazilian Portuguese": "pt-br",
   English: "en",
   French: "fr",
-  Spanish: "es",
-  "Brazilian Portuguese": "pt-br",
   German: "de",
+  Nahuatl: "nah",
+  Spanish: "es",
 }
 
 class Game {
