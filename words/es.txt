@@ -4167,8 +4167,6 @@ amarillezca
 amarillezco
 amariposado
 amarle
-amarlo
-amarme
 amarnos
 amaro
 amaromar
@@ -4883,7 +4881,6 @@ andarian
 andarica
 andariego
 andarivel
-andarle
 andarlo
 andarme
 andarnos
@@ -7424,7 +7421,6 @@ asean
 asear
 asearme
 asearnos
-asearos
 asearte
 aseas
 asechanza
@@ -12530,7 +12526,6 @@ callen
 callense
 callentar
 calles
-callese
 callialto
 callicida
 callista
@@ -19872,7 +19867,6 @@ cortafrio
 cortafuego
 cortais
 cortala
-cortalo
 cortamente
 cortamos
 cortan
@@ -20213,7 +20207,6 @@ crear
 crearle
 crearme
 crearnos
-crearos
 crearte
 creas
 creaselo
@@ -20273,7 +20266,6 @@ creere
 creereis
 creeria
 creerian
-creerse
 crees
 crehuela
 crei
@@ -21344,7 +21336,6 @@ daguerrotipar
 daguerrotipe
 daguerrotipia
 dais
-dale
 dales
 dalia
 dallador
@@ -21363,7 +21354,6 @@ damasina
 damasquillo
 damasquinar
 damasquine
-dame
 damelo
 damisela
 damnificador
@@ -22496,7 +22486,6 @@ desechable
 desechar
 desee
 desellar
-deselo
 desembarazadamente
 desembargador
 desemblantar
@@ -23768,7 +23757,6 @@ diligencie
 diligenciero
 diligente
 diligentemente
-dilo
 dilucidador
 dilucidar
 dilucidario
@@ -24588,7 +24576,6 @@ donandole
 donante
 donar
 donarle
-donarlo
 donarse
 donas
 donatario
@@ -36799,7 +36786,6 @@ helamiento
 helar
 helarme
 helarnos
-helaros
 helarte
 helas
 hele
@@ -42362,7 +42348,6 @@ ligarla
 ligarlo
 ligarme
 ligarnos
-ligaros
 ligarte
 ligarza
 ligas
@@ -47173,7 +47158,6 @@ moris
 morisco
 morisma
 morisqueta
-morite
 morito
 morlaco
 morles
@@ -49256,7 +49240,6 @@ oirme
 oirmelo
 oirnos
 oirnoslo
-oiros
 oiroslo
 oirselo
 oirte
@@ -50811,13 +50794,11 @@ parare
 pararen
 pararia
 pararle
-pararme
 pararnos
 pararon
 pararos
 pararrayo
 pararse
-pararte
 paras
 parase
 paraselene
@@ -59128,7 +59109,6 @@ rogarian
 rogarla
 rogarle
 rogarlo
-rogarme
 rogarnos
 rogaron
 rogaros
@@ -61079,7 +61059,6 @@ semitista
 semitransparente
 semitrino
 semola
-semos
 semoviente
 sempiterno
 sen
@@ -61177,7 +61156,6 @@ sentadero
 sentadillas
 sentadla
 sentadlo
-sentala
 sentalo
 sentamiento
 sentandole
@@ -67669,7 +67647,6 @@ undule
 une
 unen
 unero
-unete
 unge
 ungir
 unguento
@@ -69398,7 +69375,6 @@ vistee
 visteme
 visten
 vistenos
-vistete
 vistiendole
 vistiendolo
 vistiendome
@@ -69610,7 +69586,6 @@ volandillas
 volante
 volanton
 volar
-volarle
 volarme
 volarnos
 volaros
