@@ -19,7 +19,7 @@ def clean_txt_files():
         words = [w for w in words if is_correct(w)] # remove non-letters and proper nouns
         words.sort() # sort
 
-        with open(f, "w", encoding="utf-8") as file:
+        with open(f, "w", encoding="utf-8", newline="\n") as file:
             file.write("\n".join(words))
 
 def combine_words(source_file, language):
@@ -43,7 +43,7 @@ def combine_words(source_file, language):
     combined.sort()
 
     # Write back to language file
-    with open(lang_file, "w") as lf:
+    with open(lang_file, "w", newline="\n") as lf:
         lf.write("\n".join(combined))
     print(f"Combined words from '{source_file}' into '{lang_file}'.")
 
@@ -66,7 +66,7 @@ def remove_words(source_file, language, separator):
 
     
     # Write back to language file
-    with open(lang_file, "w") as lf:
+    with open(lang_file, "w", newline="\n") as lf:
         lf.write("\n".join(filtered))
     print(f"Removed words from '{lang_file}' which are present in '{source_file}'.")
 

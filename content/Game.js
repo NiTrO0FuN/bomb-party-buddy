@@ -1,9 +1,13 @@
 const LANGS = {
   "Brazilian Portuguese": "pt-br",
+  Breton: "br",
   English: "en",
   French: "fr",
   German: "de",
   Nahuatl: "nah",
+  "Pokemon": "pok-en",
+  "Pokémon (French)": "pok-fr",
+  "Pokemon (German)": "pok-de",
   Spanish: "es",
 }
 
@@ -196,7 +200,7 @@ class Game {
     this.used[word] = 1;
   }
   async onFailedWord(myTurn, failedWord, reason) {
-    if(this.words.includes(failedWord) && reason == "notInDictionary") {
+    if(this.words && this.words.includes(failedWord) && reason == "notInDictionary") {
       const invalids = (await chrome.storage.local.get(`invalid:${this.lang}`))[`invalid:${this.lang}`] || []
       invalids.push(failedWord)
       await chrome.storage.local.set({ [`invalid:${this.lang}`]: invalids });
