@@ -227,7 +227,6 @@ abale
 abalei
 abaleis
 abalem
-abalemo
 abalemos
 abales
 abaliza
@@ -2835,7 +2834,6 @@ acabe
 acabei
 acabeis
 acabem
-acabemo
 acabemos
 acabes
 acabo
@@ -6483,7 +6481,6 @@ acuse
 acusei
 acuseis
 acusem
-acusemo
 acusemos
 acuses
 acuso
@@ -6991,7 +6988,6 @@ adestres
 adestro
 adestrou
 adeus
-adhemar
 adi
 adia
 adiabatica
@@ -7105,7 +7101,6 @@ adicionai
 adicionais
 adicional
 adicionam
-adicionamo
 adicionamos
 adicionando
 adicionar
@@ -8874,7 +8869,6 @@ afazer
 afazeres
 afeccao
 afega
-afeganistao
 afegao
 afegaos
 afegas
@@ -9986,7 +9980,6 @@ afluiamos
 afluias
 afluido
 afluieis
-afluimo
 afluimos
 afluindo
 afluir
@@ -10120,7 +10113,6 @@ afofe
 afofei
 afofeis
 afofem
-afofemo
 afofemos
 afofes
 afofo
@@ -12780,7 +12772,6 @@ alagai
 alagais
 alagam
 alagamento
-alagamo
 alagamos
 alagando
 alagar
@@ -12817,7 +12808,6 @@ alagavamos
 alagavas
 alagaveis
 alago
-alagoas
 alagou
 alague
 alaguei
@@ -14022,7 +14012,6 @@ aliariam
 aliariamos
 aliarias
 aliarieis
-aliarmo
 aliarmos
 alias
 aliasse
@@ -14271,7 +14260,6 @@ alijado
 alijai
 alijais
 alijam
-alijamo
 alijamos
 alijando
 alijar
@@ -14375,7 +14363,6 @@ alimenticios
 alimento
 alimentos
 alimentou
-aline
 alinea
 alineas
 alinha
@@ -14528,7 +14515,6 @@ alise
 alisei
 aliseis
 alisem
-alisemo
 alisemos
 alises
 alisio
@@ -15964,7 +15950,6 @@ amaldicoo
 amaldicoou
 amalgama
 amalgamas
-amalia
 amam
 amamenta
 amamentacao
@@ -18358,7 +18343,6 @@ anatomicos
 anatomista
 anaxagoras
 anca
-ancara
 ancas
 ancestrais
 ancestral
@@ -19294,7 +19278,6 @@ ansia
 ansiado
 ansiai
 ansiais
-ansiamo
 ansiamos
 ansiando
 ansiar
@@ -20997,7 +20980,6 @@ apedrejo
 apedrejou
 apeei
 apeeis
-apeemo
 apeemos
 apega
 apegada
@@ -21069,7 +21051,6 @@ apelado
 apelai
 apelais
 apelam
-apelamo
 apelamos
 apelando
 apelar
@@ -24034,7 +24015,6 @@ aramaico
 aramaicos
 arame
 arames
-aramo
 aramos
 arandela
 arandelas
@@ -24306,7 +24286,6 @@ arcariam
 arcariamos
 arcarias
 arcarieis
-arcarmo
 arcarmos
 arcas
 arcasse
@@ -24787,7 +24766,6 @@ aritmetica
 aritmeticas
 aritmetico
 aritmeticos
-arizona
 arlequim
 arlequins
 arlindo
@@ -25044,7 +25022,6 @@ arpoes
 arpoo
 arpoou
 arque
-arquea
 arqueada
 arqueadas
 arqueado
@@ -27804,7 +27781,6 @@ artisticos
 artrite
 artrites
 artrose
-artur
 arvora
 arvorado
 arvorai
@@ -29205,7 +29181,6 @@ assiria
 assirias
 assirio
 assirios
-assis
 assista
 assistais
 assistam
@@ -30359,7 +30334,6 @@ atazanes
 atazano
 atazanou
 ate
-atea
 ateado
 ateai
 ateais
@@ -31127,7 +31101,6 @@ ativai
 ativais
 ativam
 ativamente
-ativamo
 ativamos
 ativando
 ativar
@@ -35399,7 +35372,6 @@ bagunces
 bagunco
 baguncou
 bahamas
-bahia
 baia
 baiana
 baianada
@@ -35416,7 +35388,6 @@ bailados
 bailai
 bailais
 bailam
-bailamo
 bailamos
 bailando
 bailar
@@ -37710,7 +37681,6 @@ bela
 beladona
 belas
 belchior
-belem
 beleza
 belezas
 belga
@@ -37790,7 +37760,6 @@ belissima
 belissimas
 belissimo
 belissimos
-belize
 belo
 belonave
 belonaves
@@ -38069,7 +38038,6 @@ berrado
 berrai
 berrais
 berram
-berramo
 berramos
 berrando
 berrar
@@ -39448,7 +39416,6 @@ bole
 bolei
 boleis
 bolem
-bolemo
 bolemos
 bolero
 boles
@@ -40232,7 +40199,6 @@ braba
 brabante
 brabas
 brabeza
-brabo
 brabos
 braca
 bracada
@@ -40572,7 +40538,6 @@ brasao
 brasas
 braseiro
 braseiros
-brasil
 brasileira
 brasileirada
 brasileiradas
@@ -41466,7 +41431,6 @@ bujoes
 bula
 bulais
 bulam
-bulamo
 bulamos
 bulas
 bulbo
@@ -41916,7 +41880,6 @@ cabecalho
 cabecalhos
 cabecao
 cabecas
-cabecea
 cabeceado
 cabeceai
 cabeceais
@@ -44332,7 +44295,6 @@ canonizemos
 canonizes
 canonizo
 canonizou
-canopus
 canora
 canoras
 canoro
@@ -44651,7 +44613,6 @@ capariam
 capariamos
 caparias
 caparieis
-caparmo
 caparmos
 capas
 capasse
@@ -45628,7 +45589,6 @@ carmem
 carmesim
 carmesins
 carmim
-carmo
 carnais
 carnal
 carnauba
@@ -46048,7 +46008,6 @@ caseiro
 caseiros
 caseis
 casem
-casemo
 casemos
 caserna
 casernas
@@ -46956,7 +46915,6 @@ cavariam
 cavariamos
 cavarias
 cavarieis
-cavarmo
 cavarmos
 cavas
 cavasse
@@ -47145,7 +47103,6 @@ cavouques
 caxias
 caxumba
 cayley
-cea
 ceado
 ceai
 ceais
@@ -47190,7 +47147,6 @@ cebola
 cebolas
 cebolinha
 cebolinhas
-cecilia
 ceda
 cedais
 cedam
@@ -47299,7 +47255,6 @@ cedula
 cedulas
 ceei
 ceeis
-ceemo
 ceemos
 cefaleia
 cefalia
@@ -48214,7 +48169,6 @@ cessado
 cessai
 cessais
 cessam
-cessamo
 cessamos
 cessando
 cessao
@@ -49099,7 +49053,6 @@ checagens
 checai
 checais
 checam
-checamo
 checamos
 checando
 checar
@@ -49493,7 +49446,6 @@ chifruda
 chifrudas
 chifrudo
 chifrudos
-chile
 chilena
 chilenas
 chileno
@@ -51091,7 +51043,6 @@ circunvizinho
 circunvizinhos
 circunvolucao
 circunvolucoes
-cirilo
 cirio
 cirios
 ciro
@@ -51252,7 +51203,6 @@ cisme
 cismei
 cismeis
 cismem
-cismemo
 cismemos
 cismes
 cismo
@@ -52509,7 +52459,6 @@ cobriamos
 cobrias
 cobrido
 cobrieis
-cobrimo
 cobrimos
 cobrindo
 cobrir
@@ -52573,7 +52522,6 @@ cocariam
 cocariamos
 cocarias
 cocarieis
-cocarmo
 cocarmos
 cocas
 cocasse
@@ -52596,7 +52544,6 @@ coceira
 coceiras
 coceis
 cocem
-cocemo
 cocemos
 coces
 cocheira
@@ -53037,7 +52984,6 @@ cogumelos
 coiba
 coibais
 coibam
-coibamo
 coibamos
 coibas
 coibe
@@ -54477,7 +54423,6 @@ comeriam
 comeriamos
 comerias
 comerieis
-comermo
 comermos
 comes
 comesse
@@ -64430,7 +64375,6 @@ cortou
 coruja
 corujao
 corujas
-corumba
 corveia
 corveta
 corvetas
@@ -64678,7 +64622,6 @@ cotariam
 cotariamos
 cotarias
 cotarieis
-cotarmo
 cotarmos
 cotas
 cotasse
@@ -65057,7 +65000,6 @@ cravados
 cravai
 cravais
 cravam
-cravamo
 cravamos
 cravando
 cravar
@@ -65968,7 +65910,6 @@ crivemos
 crives
 crivo
 crivou
-croacia
 croata
 croatas
 crocodilo
@@ -65978,7 +65919,6 @@ cromado
 cromai
 cromais
 cromam
-cromamo
 cromamos
 cromando
 cromar
@@ -66182,7 +66122,6 @@ crucifixardes
 crucifixarei
 crucifixareis
 crucifixarem
-crucifixaremo
 crucifixaremos
 crucifixares
 crucifixaria
@@ -66503,7 +66442,6 @@ culpe
 culpei
 culpeis
 culpem
-culpemo
 culpemos
 culpes
 culpo
@@ -66793,7 +66731,6 @@ cumule
 cumulei
 cumuleis
 cumulem
-cumulemo
 cumulemos
 cumules
 cumulo
@@ -66897,7 +66834,6 @@ curariam
 curariamos
 curarias
 curarieis
-curarmo
 curarmos
 curas
 curasse
@@ -67365,7 +67301,6 @@ czarista
 czaristas
 d
 da
-dacia
 dactilografa
 dactilografas
 dactilografo
@@ -67412,7 +67347,6 @@ damasceno
 damascenos
 damasco
 damascos
-damiao
 damo
 damocles
 damos
@@ -67524,7 +67458,6 @@ dane
 danei
 daneis
 danem
-danemo
 danemos
 danes
 daniel
@@ -71015,7 +70948,6 @@ deite
 deitei
 deiteis
 deitem
-deitemo
 deitemos
 deites
 deito
@@ -79626,7 +79558,6 @@ desempregadas
 desempregado
 desempregados
 desemprego
-desencadea
 desencadeada
 desencadeadas
 desencadeado
@@ -87944,7 +87875,6 @@ detector
 detectores
 detectou
 detem
-detemo
 detemos
 detencao
 detende
@@ -90058,7 +89988,6 @@ diminuto
 diminutos
 dimorfismo
 dimorfismos
-dinamarca
 dinamarques
 dinamarquesa
 dinamarquesas
@@ -93515,7 +93444,6 @@ dopados
 dopai
 dopais
 dopam
-dopamo
 dopamos
 dopando
 dopar
@@ -93581,7 +93509,6 @@ dormiamos
 dormias
 dormido
 dormieis
-dormimo
 dormimos
 dormindo
 dorminhoca
@@ -93721,7 +93648,6 @@ dose
 dosei
 doseis
 dosem
-dosemo
 dosemos
 doses
 doso
@@ -94958,7 +94884,6 @@ edemacies
 edemacio
 edemaciou
 edemas
-eden
 edgar
 edicao
 edicoes
@@ -95069,7 +94994,6 @@ edite
 editei
 editeis
 editem
-editemo
 editemos
 edites
 edito
@@ -95505,7 +95429,6 @@ egiptologas
 egiptologia
 egiptologo
 egiptologos
-egito
 ego
 egocentrica
 egocentricas
@@ -96067,7 +95990,6 @@ elevo
 elevou
 eliana
 eliane
-elias
 eliezer
 eligio
 elimina
@@ -103627,7 +103549,6 @@ enegrecidos
 enegrecieis
 enegrecimento
 enegreco
-eneias
 eneida
 energetica
 energeticas
@@ -108609,7 +108530,6 @@ entrado
 entrai
 entrais
 entram
-entramo
 entramos
 entrancada
 entrancadas
@@ -113495,7 +113415,6 @@ escoces
 escocesa
 escocesas
 escoceses
-escocia
 escoe
 escoei
 escoeis
@@ -116203,7 +116122,6 @@ espancavas
 espancaveis
 espanco
 espancou
-espanha
 espanhois
 espanhol
 espanhola
@@ -122005,7 +121923,6 @@ etiologico
 etiologicos
 etiope
 etiopes
-etiopia
 etipe
 etipes
 etiqueta
@@ -122213,7 +122130,6 @@ evadiamos
 evadias
 evadido
 evadieis
-evadimo
 evadimos
 evadindo
 evadir
@@ -124894,7 +124810,6 @@ expiado
 expiai
 expiais
 expiam
-expiamo
 expiamos
 expiando
 expiar
@@ -126635,7 +126550,6 @@ exumado
 exumai
 exumais
 exumam
-exumamo
 exumamos
 exumando
 exumar
@@ -127347,7 +127261,6 @@ faltado
 faltai
 faltais
 faltam
-faltamo
 faltamos
 faltando
 faltar
@@ -127948,7 +127861,6 @@ farra
 farrapo
 farrapos
 farras
-farrea
 farreado
 farreai
 farreais
@@ -128514,7 +128426,6 @@ fechai
 fechais
 fecham
 fechamento
-fechamo
 fechamos
 fechando
 fechar
@@ -129037,7 +128948,6 @@ ferrais
 ferram
 ferramenta
 ferramentas
-ferramo
 ferramos
 ferrando
 ferrao
@@ -129437,7 +129347,6 @@ ficado
 ficai
 ficais
 ficam
-ficamo
 ficamos
 ficando
 ficar
@@ -129480,7 +129389,6 @@ fichado
 fichai
 fichais
 ficham
-fichamo
 fichamos
 fichando
 fichar
@@ -129659,7 +129567,6 @@ filamentosa
 filamentosas
 filamentoso
 filamentosos
-filamo
 filamos
 filando
 filantropia
@@ -130153,7 +130060,6 @@ findado
 findai
 findais
 findam
-findamo
 findamos
 findando
 findar
@@ -131254,7 +131160,6 @@ floriferos
 florilegio
 florilegios
 florim
-florimo
 florimos
 florindo
 florins
@@ -132219,7 +132124,6 @@ forme
 formei
 formeis
 formem
-formemo
 formemos
 formes
 formica
@@ -134317,7 +134221,6 @@ fucado
 fucai
 fucais
 fucam
-fucamo
 fucamos
 fucando
 fucar
@@ -134436,7 +134339,6 @@ fujias
 fujido
 fujieis
 fujimo
-fujimos
 fujindo
 fujir
 fujira
@@ -135121,7 +135023,6 @@ furados
 furai
 furais
 furam
-furamo
 furamos
 furando
 furao
@@ -137830,7 +137731,6 @@ golea
 goleado
 goleai
 goleais
-goleamo
 goleamos
 goleando
 golear
@@ -137890,7 +137790,6 @@ golfo
 golfos
 golgota
 golpe
-golpea
 golpeada
 golpeadas
 golpeado
@@ -138338,7 +138237,6 @@ goze
 gozei
 gozeis
 gozem
-gozemo
 gozemos
 gozes
 gozo
@@ -138644,7 +138542,6 @@ granizo
 granizos
 granja
 granjas
-granjea
 granjeado
 granjeai
 granjeais
@@ -138928,7 +138825,6 @@ graxa
 graxas
 graxo
 graxos
-grecia
 grega
 gregaria
 gregarias
@@ -139305,7 +139201,6 @@ grupos
 gruta
 grutas
 guache
-guaira
 guanabara
 guarana
 guaranas
@@ -140678,7 +140573,6 @@ higrometro
 higrometros
 hilariante
 hilariantes
-hilbert
 himalaia
 himen
 hinario
@@ -141853,7 +141747,6 @@ icardes
 icarei
 icareis
 icarem
-icaremo
 icaremos
 icares
 icaria
@@ -142560,7 +142453,6 @@ ilustrissimo
 ilustrissimos
 ilustro
 ilustrou
-im
 ima
 imaculada
 imaculadas
@@ -143815,7 +143707,6 @@ impo
 impoe
 impoem
 impoes
-impomo
 impomos
 imponde
 imponderada
@@ -148577,7 +148468,6 @@ inibidas
 inibido
 inibidos
 inibieis
-inibimo
 inibimos
 inibindo
 inibir
@@ -149090,7 +148980,6 @@ inove
 inovei
 inoveis
 inovem
-inovemo
 inovemos
 inoves
 inovo
@@ -153899,7 +153788,6 @@ istmos
 isto
 itabaiana
 itaberaba
-italia
 italiana
 italianas
 italianismo
@@ -154127,7 +154015,6 @@ jato
 jatos
 jaula
 jaulas
-java
 javali
 javalis
 jave
@@ -154206,7 +154093,6 @@ jejuado
 jejuai
 jejuais
 jejuam
-jejuamo
 jejuamos
 jejuando
 jejuar
@@ -154484,7 +154370,6 @@ jorremos
 jorres
 jorro
 jorrou
-jose
 jota
 jovem
 jovens
@@ -154863,8 +154748,6 @@ jururu
 jururus
 jus
 jusante
-jusrisprudencia
-jusrisprudencias
 justa
 justalinear
 justalineares
@@ -155972,7 +155855,6 @@ largai
 largais
 largam
 largamente
-largamo
 largamos
 largando
 largar
@@ -156283,7 +156165,6 @@ latifundiarios
 latifundio
 latifundios
 latim
-latimo
 latimos
 latina
 latinas
@@ -157164,7 +157045,6 @@ letargica
 letargicas
 letargico
 letargicos
-leticia
 letiva
 letivas
 letivo
@@ -158711,7 +158591,6 @@ lixado
 lixai
 lixais
 lixam
-lixamo
 lixamos
 lixando
 lixao
@@ -159071,7 +158950,6 @@ lotados
 lotai
 lotais
 lotam
-lotamo
 lotamos
 lotando
 lotar
@@ -161364,7 +161242,6 @@ manjado
 manjai
 manjais
 manjam
-manjamo
 manjamos
 manjando
 manjar
@@ -161627,7 +161504,6 @@ manuscrita
 manuscritas
 manuscrito
 manuscritos
-manusea
 manuseada
 manuseadas
 manuseado
@@ -163797,7 +163673,6 @@ melariam
 melariamos
 melarias
 melarieis
-melarmo
 melarmos
 melas
 melasse
@@ -164210,7 +164085,6 @@ menir
 menires
 menisco
 meniscos
-meno
 menopausa
 menopausas
 menor
@@ -165114,7 +164988,6 @@ miardes
 miarei
 miareis
 miarem
-miaremo
 miaremos
 miares
 miaria
@@ -165924,7 +165797,6 @@ mire
 mirei
 mireis
 mirem
-miremo
 miremos
 mires
 miriade
@@ -166882,7 +166754,6 @@ molde
 moldei
 moldeis
 moldem
-moldemo
 moldemos
 moldes
 moldo
@@ -166977,7 +166848,6 @@ molhados
 molhai
 molhais
 molham
-molhamo
 molhamos
 molhando
 molhar
@@ -169256,7 +169126,6 @@ narrados
 narrai
 narrais
 narram
-narramo
 narramos
 narrando
 narrar
@@ -170113,7 +169982,6 @@ niilismo
 niilismos
 niilista
 niilistas
-nilo
 nina
 ninado
 ninai
@@ -170467,7 +170335,6 @@ nomades
 nomadismo
 nomadismos
 nome
-nomea
 nomeacao
 nomeacoes
 nomeada
@@ -171224,7 +171091,6 @@ nutridas
 nutrido
 nutridos
 nutrieis
-nutrimo
 nutrimos
 nutrindo
 nutrir
@@ -171245,7 +171111,6 @@ nutririam
 nutririamos
 nutririas
 nutririeis
-nutrirmo
 nutrirmos
 nutris
 nutrisse
@@ -173345,7 +173210,6 @@ ondeavas
 ondeaveis
 ondeei
 ondeeis
-ondeemo
 ondeemos
 ondeia
 ondeiam
@@ -173894,7 +173758,6 @@ orariam
 orariamos
 orarias
 orarieis
-orarmo
 orarmos
 oras
 orasse
@@ -174106,7 +173969,6 @@ orelhudas
 orelhudo
 orelhudos
 orem
-oremo
 oremos
 ores
 orfa
@@ -174420,7 +174282,6 @@ orlariam
 orlariamos
 orlarias
 orlarieis
-orlarmo
 orlarmos
 orlas
 orlasse
@@ -174532,7 +174393,6 @@ ornariam
 ornariamos
 ornarias
 ornarieis
-ornarmo
 ornarmos
 ornas
 ornasse
@@ -176429,7 +176289,6 @@ papaia
 papaias
 papais
 papam
-papamo
 papamos
 papando
 papao
@@ -177286,7 +177145,6 @@ paridade
 paridades
 parido
 parieis
-parimo
 parimos
 parindo
 parir
@@ -177843,7 +177701,6 @@ passavamos
 passavas
 passaveis
 passe
-passea
 passeado
 passeador
 passeadora
@@ -178595,7 +178452,6 @@ pavimento
 pavimentou
 pavio
 pavios
-pavonea
 pavoneado
 pavoneai
 pavoneais
@@ -178657,7 +178513,6 @@ pazes
 pazinha
 pazinhas
 pe
-peano
 peao
 peca
 pecado
@@ -178906,7 +178761,6 @@ pediriam
 pediriamos
 pedirias
 pedirieis
-pedirmo
 pedirmos
 pedis
 pedisse
@@ -179239,7 +179093,6 @@ pelejes
 pelejo
 pelejou
 pelem
-pelemo
 pelemos
 peles
 pelica
@@ -183548,7 +183401,6 @@ pistoleiro
 pistoleiros
 pitada
 pitadas
-pitagoras
 pitanga
 pitangas
 pitangueira
@@ -187638,7 +187490,6 @@ premeditadas
 premeditado
 premeditados
 premem
-prememo
 premencia
 premente
 premes
@@ -187697,7 +187548,6 @@ premiem
 premiemo
 premiemos
 premies
-premimo
 premimos
 premindo
 premio
@@ -193226,7 +193076,6 @@ pulsado
 pulsai
 pulsais
 pulsam
-pulsamo
 pulsamos
 pulsando
 pulsar
@@ -194050,7 +193899,6 @@ quartzitos
 quartzo
 quartzolito
 quartzolitos
-quarup
 quasar
 quasares
 quase
@@ -194776,7 +194624,6 @@ rache
 rachei
 racheis
 rachem
-rachemo
 rachemos
 raches
 racho
@@ -195207,7 +195054,6 @@ radiquem
 radiquemo
 radiquemos
 radiques
-rafael
 raia
 raiado
 raiai
@@ -195378,7 +195224,6 @@ ralhado
 ralhai
 ralhais
 ralham
-ralhamo
 ralhamos
 ralhando
 ralhar
@@ -195892,7 +195737,6 @@ rasgados
 rasgai
 rasgais
 rasgam
-rasgamo
 rasgamos
 rasgando
 rasgao
@@ -197648,7 +197492,6 @@ reboe
 reboei
 reboeis
 reboem
-reboemo
 reboemos
 reboes
 rebola
@@ -198242,7 +198085,6 @@ recebimentos
 recebo
 receei
 receeis
-receemo
 receemos
 receia
 receiam
@@ -203476,7 +203318,6 @@ rege
 regei
 regeis
 regem
-regemo
 regemos
 regencia
 regencias
@@ -203882,7 +203723,6 @@ regrediu
 regrei
 regreis
 regrem
-regremo
 regremos
 regres
 regressa
@@ -203959,7 +203799,6 @@ regue
 reguei
 regueis
 reguem
-reguemo
 reguemos
 regues
 regula
@@ -213905,7 +213744,6 @@ rimem
 rimemo
 rimemos
 rimes
-rimo
 rimos
 rimou
 rincao
@@ -214802,7 +214640,6 @@ romeiro
 romeiros
 romena
 romenas
-romenia
 romeno
 romenos
 romeu
@@ -214816,7 +214653,6 @@ rompe
 rompei
 rompeis
 rompem
-rompemo
 rompemos
 rompendo
 romper
@@ -214861,7 +214697,6 @@ rompieis
 rompimento
 rompimentos
 rompo
-ronaldo
 ronca
 roncado
 roncai
@@ -214954,7 +214789,6 @@ rondemo
 rondemos
 rondes
 rondo
-rondonia
 rondou
 ronque
 ronquei
@@ -215650,7 +215484,6 @@ ruidoso
 ruidosos
 ruieis
 ruim
-ruimo
 ruimos
 ruina
 ruinas
@@ -215747,7 +215580,6 @@ rume
 rumei
 rumeis
 rumem
-rumemo
 rumemos
 rumes
 rumina
@@ -216066,7 +215898,6 @@ sacados
 sacai
 sacais
 sacam
-sacamo
 sacamos
 sacanagem
 sacanagens
@@ -219024,7 +218855,6 @@ selados
 selai
 selais
 selam
-selamo
 selamos
 selando
 selar
@@ -219756,7 +219586,6 @@ sequeis
 sequela
 sequelas
 sequem
-sequemo
 sequemos
 sequencia
 sequenciado
@@ -220006,7 +219835,6 @@ seriai
 seriais
 serial
 seriam
-seriamo
 seriamos
 seriando
 seriar
@@ -220435,7 +220263,6 @@ setorizemos
 setorizes
 setorizo
 setorizou
-setubal
 seu
 seus
 severa
@@ -220538,7 +220365,6 @@ sexualidades
 sexualmente
 si
 siao
-siberia
 siberiana
 siberianas
 siberiano
@@ -223168,7 +222994,6 @@ sofreguidao
 sofrei
 sofreis
 sofrem
-sofremo
 sofremos
 sofrendo
 sofrer
@@ -223789,7 +223614,6 @@ somariam
 somariamos
 somarias
 somarieis
-somarmo
 somarmos
 somas
 somasse
@@ -224168,7 +223992,6 @@ sopradores
 soprai
 soprais
 sopram
-sopramo
 sopramos
 soprando
 soprano
@@ -224507,7 +224330,6 @@ sossobrado
 sossobrai
 sossobrais
 sossobram
-sossobramo
 sossobramos
 sossobrando
 sossobrar
@@ -224654,10 +224476,8 @@ sozinha
 sozinhas
 sozinho
 sozinhos
-spinosa
 stalin
 status
-stokes
 sua
 suada
 suadas
@@ -228508,7 +228328,6 @@ sustado
 sustai
 sustais
 sustam
-sustamo
 sustamos
 sustancia
 sustancias
@@ -229198,7 +229017,6 @@ tange
 tangei
 tangeis
 tangem
-tangemo
 tangemos
 tangencia
 tangenciado
@@ -229364,7 +229182,6 @@ tapavamos
 tapavas
 tapaveis
 tape
-tapea
 tapeacao
 tapeacoes
 tapeado
@@ -229885,7 +229702,6 @@ taxista
 taxistas
 taxo
 taxou
-taylor
 tcheca
 tchecas
 tcheco
@@ -231891,7 +231707,6 @@ tocam
 tocamo
 tocamos
 tocando
-tocantins
 tocar
 tocara
 tocaram
@@ -232472,7 +232287,6 @@ tornados
 tornai
 tornais
 tornam
-tornamo
 tornamos
 tornando
 tornar
@@ -233682,7 +233496,6 @@ traje
 trajei
 trajeis
 trajem
-trajemo
 trajemos
 trajes
 trajeto
@@ -235429,7 +235242,6 @@ tratardes
 tratarei
 tratareis
 tratarem
-trataremo
 trataremos
 tratares
 trataria
@@ -236934,7 +236746,6 @@ troto
 trotou
 trotskista
 trotskistas
-trotsky
 trouxa
 trouxas
 trouxe
@@ -237600,7 +237411,6 @@ uivariam
 uivariamos
 uivarias
 uivarieis
-uivarmo
 uivarmos
 uivas
 uivasse
@@ -238259,7 +238069,6 @@ untado
 untai
 untais
 untam
-untamo
 untamos
 untando
 untar
@@ -238376,7 +238185,6 @@ urdamos
 urdas
 urde
 urdem
-urdemo
 urdes
 urdi
 urdia
@@ -238669,7 +238477,6 @@ use
 usei
 useis
 usem
-usemo
 usemos
 uses
 usina
@@ -239013,7 +238820,6 @@ vacino
 vacinou
 vacuo
 vacuos
-vadea
 vadeado
 vadeai
 vadeais
@@ -239336,7 +239142,6 @@ vaiado
 vaiai
 vaiais
 vaiam
-vaiamo
 vaiamos
 vaiando
 vaiar
@@ -239879,7 +239684,6 @@ variados
 variai
 variais
 variam
-variamo
 variamos
 variando
 variante
@@ -240539,7 +240343,6 @@ velejes
 velejo
 velejou
 velem
-velemo
 velemos
 veles
 velha
@@ -241818,7 +241621,6 @@ viaje
 viajei
 viajeis
 viajem
-viajemo
 viajemos
 viajes
 viajo
@@ -242183,7 +241985,6 @@ vigie
 vigiei
 vigieis
 vigiem
-vigiemo
 vigiemos
 vigies
 vigilancia
@@ -242269,7 +242070,6 @@ viloes
 vilosidade
 vilosidades
 vim
-vimo
 vimos
 vinagre
 vinca
@@ -242866,7 +242666,6 @@ viseira
 viseiras
 viseis
 visem
-visemo
 visemos
 vises
 visibilidade
@@ -243358,7 +243157,6 @@ vivacidade
 vivais
 vivam
 vivamente
-vivamo
 vivamos
 vivas
 vivaz
@@ -244388,7 +244186,6 @@ xingais
 xingam
 xingamento
 xingamentos
-xingamo
 xingamos
 xingando
 xingar
@@ -244454,7 +244251,6 @@ zagueiro
 zagueiros
 zair
 zambia
-zanete
 zanga
 zangado
 zangai
@@ -244566,7 +244362,6 @@ zarpado
 zarpai
 zarpais
 zarpam
-zarpamo
 zarpamos
 zarpando
 zarpar
@@ -244794,7 +244589,6 @@ zombado
 zombai
 zombais
 zombam
-zombamo
 zombamos
 zombando
 zombar
@@ -244962,7 +244756,6 @@ zurrado
 zurrai
 zurrais
 zurram
-zurramo
 zurramos
 zurrando
 zurrar
@@ -245002,7 +244795,6 @@ zurre
 zurrei
 zurreis
 zurrem
-zurremo
 zurremos
 zurres
 zurro

@@ -121,7 +121,6 @@ drapfel
 draschel
 dratini
 dressella
-driftion
 drifzepeli
 duflor
 duodino
@@ -207,7 +206,6 @@ geowaz
 geradaks
 geronimatz
 gewaldro
-giflos
 giratina
 gladiantri
 glaziola
@@ -390,7 +388,6 @@ magnetilo
 magneton
 magnezone
 mahikel
-makbaja
 makuhita
 mamolida
 mamutel
@@ -547,7 +544,6 @@ qurtel
 rabigator
 raffel
 raichu
-ramidon
 ramoth
 rasaff
 rattfratz
@@ -685,7 +681,6 @@ taubsi
 tauros
 tectass
 tengulist
-tenoxa
 tentacha
 tentantel
 terrakium
@@ -719,7 +714,6 @@ vegichita
 vegimak
 velursi
 venicro
-venufilibis
 vesprit
 vibrava
 victini
@@ -746,11 +740,9 @@ wagong
 wailmer
 wailord
 walraisa
-washakwill
 wattzapf
 waumboll
 waumpel
-weisar
 wie-shu
 wielie
 wingull
