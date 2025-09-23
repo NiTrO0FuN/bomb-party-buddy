@@ -5194,7 +5194,6 @@ aede
 aedes
 aegosome
 aegosomes
-aequo
 aera
 aerai
 aeraient
@@ -26978,7 +26977,6 @@ bazardons
 bazars
 bazooka
 bazookas
-bd
 bea
 beagle
 beagles
@@ -30653,7 +30651,6 @@ bleds
 blemaient
 blemais
 blemait
-blemant
 bleme
 blemera
 blemerai
@@ -30671,7 +30668,6 @@ blemez
 blemi
 blemie
 blemies
-blemiez
 blemimes
 blemions
 blemir
@@ -30686,7 +30682,6 @@ blemissiez
 blemissions
 blemit
 blemites
-blemons
 blende
 blendes
 blennie
@@ -32529,7 +32524,6 @@ boucanions
 boucanons
 boucans
 boucau
-boucaus
 boucha
 bouchage
 bouchages
@@ -33387,7 +33381,6 @@ boulottions
 boulottons
 boum
 boume
-boumer
 boumera
 boumerai
 boumeraient
@@ -33399,7 +33392,6 @@ boumeriez
 boumerions
 boumerons
 boumeront
-boumes
 bouquet
 bouquetier
 bouquetiere
@@ -36366,7 +36358,6 @@ bronchiteuses
 bronchiteux
 bronchitique
 bronchitiques
-broncho
 bronchons
 bronchoscopie
 bronchoscopies
@@ -36691,7 +36682,6 @@ broyez
 broyiez
 broyions
 broyons
-brrr
 bru
 bruant
 bruants
@@ -37279,7 +37269,6 @@ bures
 burette
 burettes
 burgau
-burgaus
 burin
 burina
 burinage
@@ -45365,7 +45354,6 @@ cetone
 cetones
 cette
 ceux
-cf
 cg
 ch
 chabichou
@@ -51050,7 +51038,6 @@ citrons
 citrouille
 citrouilles
 citrus
-city
 civelle
 civelles
 civet
@@ -65845,7 +65832,6 @@ couvrissions
 couvrit
 couvrites
 couvrons
-couvru
 couvrue
 couvrues
 couvrus
@@ -90832,7 +90818,6 @@ depourvoir
 depourvu
 depourvue
 depourvues
-depourvumes
 depourvurent
 depourvus
 depourvut
@@ -110478,7 +110463,6 @@ echographie
 echographies
 echoie
 echoient
-echoies
 echoir
 echoira
 echoiraient
@@ -135714,7 +135698,6 @@ etalinguons
 etalingure
 etalingures
 etalions
-etalisa
 etalisai
 etalisaient
 etalisais
@@ -136065,7 +136048,6 @@ etayez
 etayiez
 etayions
 etayons
-etc
 ete
 eteignaient
 eteignais
@@ -141686,7 +141668,6 @@ facherions
 facherons
 facheront
 faches
-facheu
 facheuse
 facheusement
 facheuses
@@ -143325,7 +143306,6 @@ faudrai
 faudraient
 faudrais
 faudrait
-faudras
 faudrez
 faudriez
 faudrions
@@ -145544,8 +145524,6 @@ fifre
 fifrelin
 fifrelins
 fifres
-fifties
-fig
 figaro
 figaros
 fige
@@ -148934,7 +148912,6 @@ forfassent
 forfasses
 forfassiez
 forfassions
-forfera
 forferai
 forferaient
 forferais
@@ -148955,9 +148932,7 @@ forfissent
 forfisses
 forfissiez
 forfissions
-forfit
 forfites
-forfont
 forge
 forgea
 forgeable
@@ -150976,7 +150951,6 @@ franque
 franquette
 franquiste
 franquistes
-frape
 frapes
 frappa
 frappage
@@ -151373,7 +151347,6 @@ fremit
 fremites
 frenaie
 frenaies
-french
 frene
 frenes
 frenesie
@@ -152116,7 +152089,6 @@ frisquette
 frisquettes
 frisse
 frissent
-frisses
 frissiez
 frissions
 frisson
@@ -163107,7 +163079,6 @@ gustative
 gustatives
 gustometrie
 gustometries
-gutenberg
 guttural
 gutturale
 gutturales
@@ -180432,7 +180403,6 @@ janseniste
 jansenistes
 jante
 jantes
-janv
 janvier
 japon
 japonais
@@ -181264,7 +181234,6 @@ jodlat
 jodlates
 jodle
 jodlee
-jodlees
 jodlent
 jodler
 jodlera
@@ -181989,7 +181958,6 @@ jugulions
 jugulons
 juif
 juifs
-juill
 juillet
 juin
 juive
@@ -182288,7 +182256,6 @@ jutassions
 jutat
 jutates
 jute
-jutee
 jutees
 jutent
 juter
@@ -186288,7 +186255,6 @@ lieux
 lievre
 lievres
 liez
-life
 lift
 lifta
 liftai
@@ -186905,7 +186871,6 @@ linaire
 linaires
 linceul
 linceuls
-line
 lineaire
 lineairement
 lineaires
@@ -188959,9 +188924,7 @@ luisit
 luisites
 luisons
 luit
-luite
 luites
-luits
 lulu
 lulus
 lumachelle
@@ -191116,7 +191079,6 @@ malfassent
 malfasses
 malfassiez
 malfassions
-malfera
 malferai
 malferaient
 malferais
@@ -191129,15 +191091,12 @@ malferons
 malferont
 malfimes
 malfirent
-malfis
 malfisse
 malfissent
 malfisses
 malfissiez
 malfissions
-malfit
 malfites
-malfont
 malformation
 malformations
 malfrat
@@ -192365,7 +192324,6 @@ mantique
 mantiques
 mantisse
 mantisses
-manu
 manubrium
 manubriums
 manucura
@@ -196306,7 +196264,6 @@ mehari
 meharis
 mehariste
 meharistes
-meijis
 meilleur
 meilleure
 meilleures
@@ -196614,7 +196571,6 @@ memorisez
 memorisiez
 memorisions
 memorisons
-men
 mena
 menaca
 menacai
@@ -206037,7 +205993,6 @@ nebuliseur
 nebuliseurs
 nebulosite
 nebulosites
-nec
 necessaire
 necessairement
 necessaires
@@ -208582,7 +208537,6 @@ numerotez
 numerotiez
 numerotions
 numerotons
-numerus
 numide
 numides
 numismate
@@ -209511,8 +209465,6 @@ obviassions
 obviat
 obviates
 obvie
-obviee
-obviees
 obviendra
 obviendrai
 obviendraient
@@ -209663,7 +209615,6 @@ occitan
 occitane
 occitanes
 occitans
-occlu
 occluaient
 occluais
 occluait
@@ -210990,7 +210941,6 @@ ondulez
 onduliez
 ondulions
 ondulons
-one
 onereuse
 onereusement
 onereuses
@@ -211035,8 +210985,6 @@ oniromancienne
 oniromanciennes
 oniromanciens
 oniromancies
-onkotique
-onkotiques
 onomasiologie
 onomasiologies
 onomastique
@@ -219004,8 +218952,6 @@ patai
 pataient
 patais
 patait
-patames
-patant
 pataphysique
 pataphysiques
 patapouf
@@ -219180,7 +219126,6 @@ patentions
 patentons
 patents
 pater
-patera
 paterai
 pateraient
 paterais
@@ -219275,7 +219220,6 @@ patientiez
 patientions
 patientons
 patients
-patiez
 patimes
 patina
 patinage
@@ -219325,7 +219269,6 @@ patinoire
 patinoires
 patinons
 patio
-pations
 patios
 patir
 patira
@@ -221488,7 +221431,6 @@ penurie
 penuries
 peon
 peons
-people
 peotte
 peottes
 pep
@@ -224093,7 +224035,6 @@ pezize
 pezizes
 pfennig
 pfennigs
-pfft
 phacochere
 phacocheres
 phacometre
@@ -238360,7 +238301,6 @@ pseudonymes
 pseudopode
 pseudopodes
 psi
-psitt
 psittacisme
 psittacismes
 psittacose
@@ -238369,7 +238309,6 @@ psoas
 psoque
 psoques
 psoriasis
-pst
 psychanalysa
 psychanalysai
 psychanalysaient
@@ -251427,7 +251366,6 @@ recouvrons
 recouvru
 recouvrue
 recouvrues
-recouvrus
 recracha
 recrachai
 recrachaient
@@ -253948,7 +253886,6 @@ reexportiez
 reexportions
 reexportons
 reez
-ref
 refaconna
 refaconnai
 refaconnaient
@@ -264940,7 +264877,6 @@ requerus
 requete
 requetes
 requiem
-requiems
 requiere
 requierent
 requieres
@@ -270680,7 +270616,6 @@ richesse
 richesses
 richissime
 richissimes
-richter
 ricin
 ricine
 ricinee
@@ -273726,7 +273661,6 @@ rouvrit
 rouvrites
 rouvrons
 rouvru
-rouvrue
 rouvrues
 rouvrus
 roux
@@ -273863,7 +273797,6 @@ rubescent
 rubescente
 rubescentes
 rubescents
-rubiace
 rubiacee
 rubiacees
 rubiaces
@@ -278757,7 +278690,6 @@ scoutes
 scoutisme
 scoutismes
 scouts
-scrabble
 scrabbles
 scramasaxe
 scramasaxes
@@ -287151,7 +287083,6 @@ stadhouder
 stadhouders
 stadia
 stadias
-stadium
 staff
 staffa
 staffai
@@ -287534,7 +287465,6 @@ statoreacteurs
 stators
 statthalter
 statthalters
-statu
 statua
 statuai
 statuaient
@@ -299269,7 +299199,6 @@ terpines
 terpinol
 terpinols
 terra
-terrafungine
 terrafungines
 terrage
 terrages
@@ -299787,7 +299716,6 @@ tetrade
 tetrades
 tetragone
 tetragones
-tetrahydronaphtaline
 tetrahydronaphtalines
 tetralogie
 tetralogies
@@ -313678,7 +313606,6 @@ ventrue
 ventrues
 ventrus
 vents
-venture
 venturi
 venturis
 venu
@@ -318329,7 +318256,6 @@ xanthome
 xanthomes
 xanthophylle
 xanthophylles
-xavier
 xenelasie
 xenelasies
 xenon
@@ -318476,9 +318402,6 @@ yttrium
 yttriums
 yucca
 yuccas
-yves
-yvette
-yvon
 zabre
 zabres
 zain
@@ -318675,7 +318598,6 @@ zezayassions
 zezayat
 zezayates
 zezaye
-zezayee
 zezayees
 zezayent
 zezayer

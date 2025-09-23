@@ -28,7 +28,6 @@ ahonteaquiani
 ahontlaecoani
 ahoompa
 ahuacatzitzin
-ahycyotl
 ahyecyotica
 ahyo
 aitzcihuacuauhtli
@@ -101,7 +100,6 @@ chiltecpinmolli
 chiltecpinmolloh
 chimouhqui
 chipauhcayotl
-chipauhcaytl
 chiquippechtli
 chiyanaxihuitl
 chiyemeh
@@ -128,7 +126,6 @@ coyoehuatilmahtli
 coyoehuatl
 coznochnohpalli
 coznochtli
-cozoeuatl
 cozzoquit
 cuachpepechzouhqui
 cuahuilacapitzli
@@ -156,9 +153,7 @@ cuicayotl
 cuihcuilihuic
 cuitcoatl
 cuitlacpehua
-cuitlapilxexeltc
 cuitlatexohehuatl
-ecoloehuatepotzohicpalli
 eetzalcomitl
 ehetzapotl
 ehexpa
@@ -306,7 +301,6 @@ mohaupauhqui
 mohuapauhqui
 moiyohcatih
 moiyolic
-moteelhutltiani
 motlaecoltiani
 moxeloani
 moyolahcocqui
@@ -538,7 +532,6 @@ tlacpeuhtli
 tlacuahuaya
 tlacuatepozzotiliztli
 tlacuauhquetza
-tlacuauhtzitzquiliztli
 tlacueolololli
 tlacuitl
 tlaecahuilhuia

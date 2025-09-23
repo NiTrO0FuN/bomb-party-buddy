@@ -558,7 +558,6 @@ abstemio
 abstencion
 abstencionismo
 abstencionista
-abstene
 abstener
 absterge
 abstergente
@@ -1979,7 +1978,6 @@ afeador
 afeamiento
 afean
 afear
-afearte
 afeas
 afeblece
 afeblecer
@@ -4167,7 +4165,6 @@ amarillezca
 amarillezco
 amariposado
 amarle
-amarnos
 amaro
 amaromar
 amarome
@@ -4884,7 +4881,6 @@ andarivel
 andarlo
 andarme
 andarnos
-andaros
 andarraya
 andarse
 andarte
@@ -7381,9 +7377,7 @@ asar
 asardinado
 asarero
 asarina
-asarlo
 asarme
-asarnos
 asaro
 asaros
 asarte
@@ -7581,7 +7575,6 @@ asincrono
 asio
 asir
 asirle
-asirlo
 asis
 asista
 asistan
@@ -7943,7 +7936,6 @@ atascaren
 atascaria
 atascarian
 atascaron
-atascarse
 atascas
 atascase
 atascaseis
@@ -8008,7 +8000,6 @@ ateniense
 atenle
 atenlo
 atenme
-atennos
 atenorado
 atenos
 atenta
@@ -9186,7 +9177,6 @@ bajarlo
 bajarme
 bajaron
 bajaros
-bajarse
 bajarte
 bajas
 bajase
@@ -9453,7 +9443,6 @@ banare
 banaren
 banaria
 banaron
-banarse
 banas
 banase
 banasen
@@ -11735,9 +11724,7 @@ buscadlo
 buscadme
 buscadnos
 buscador
-buscale
 buscalo
-buscame
 buscan
 buscandole
 buscandolo
@@ -13196,7 +13183,6 @@ cantee
 canteen
 canteis
 cantel
-canteme
 cantemos
 canten
 cantenme
@@ -14036,7 +14022,6 @@ casaria
 casarian
 casariego
 casaron
-casarse
 casas
 casase
 casaseis
@@ -16326,7 +16311,6 @@ citarian
 citarista
 citarizar
 citaron
-citarse
 citas
 citase
 citaseis
@@ -16845,7 +16829,6 @@ coger
 cogerla
 cogerle
 cogerlo
-cogerme
 cogermelo
 cogernos
 cogernoslo
@@ -16983,7 +16966,6 @@ colaria
 colarla
 colarle
 colarlo
-colarme
 colarnos
 colaron
 colaros
@@ -20356,7 +20338,6 @@ criarlo
 criarme
 criarnos
 criaros
-criarte
 crias
 criatura
 criba
@@ -20998,7 +20979,6 @@ cuidar
 cuidas
 cuidate
 cuide
-cuidelo
 cuideme
 cuidemonos
 cuiden
@@ -21354,7 +21334,6 @@ damasina
 damasquillo
 damasquinar
 damasquine
-damelo
 damisela
 damnificador
 damnificar
@@ -21397,7 +21376,6 @@ dariais
 dariamos
 darian
 darme
-darse
 darsena
 das
 daselo
@@ -21530,7 +21508,6 @@ decirnoslo
 deciros
 deciroslo
 decirselo
-decirte
 decirtelo
 decis
 deciselo
@@ -23676,7 +23653,6 @@ digamma
 digamonos
 digamos
 digan
-diganle
 diganlo
 diganme
 diganmelo
@@ -23731,7 +23707,6 @@ digresion
 dij
 dije
 dijo
-dila
 dilacerar
 dilacere
 dilacion
@@ -23745,12 +23720,10 @@ dilatar
 dilatativo
 dilate
 dilatorio
-dile
 dileccion
 dilecta
 dilecto
 dilema
-diles
 diligencia
 diligenciar
 diligencie
@@ -24575,7 +24548,6 @@ donan
 donandole
 donante
 donar
-donarle
 donarse
 donas
 donatario
@@ -33716,7 +33688,6 @@ formule
 formulismo
 formulista
 fornacina
-forne
 fornecer
 fornecino
 fornicador
@@ -34386,7 +34357,6 @@ fundirte
 fundis
 fundo
 fundos
-fune
 funebre
 funen
 funeral
@@ -36996,7 +36966,6 @@ herinos
 herir
 herirle
 herirlo
-herirme
 herirnos
 heriros
 herirte
@@ -37137,7 +37106,6 @@ hervor
 hervores
 hervorizarse
 hervoroso
-hes
 hesitar
 hesite
 hespe
@@ -41301,7 +41269,6 @@ lamer
 lamerme
 lamernos
 lameros
-lamerte
 lami
 lamia
 lamiendolo
@@ -41436,7 +41403,6 @@ lanzandome
 lanzandonos
 lanzandoos
 lanzandote
-lanzaos
 lanzar
 lanzarme
 lanzarnos
@@ -41693,7 +41659,6 @@ lavarnoslo
 lavaros
 lavaroslo
 lavarselo
-lavarte
 lavartelo
 lavas
 lavate
@@ -41816,7 +41781,6 @@ leednoslo
 leedselo
 leeis
 leelo
-leeme
 leemelo
 leemos
 leen
@@ -43624,7 +43588,6 @@ magreces
 magree
 magro
 magrura
-magueis
 magueto
 maguey
 maguillo
@@ -44082,7 +44045,6 @@ mandatario
 mandate
 mandato
 mande
-mandelo
 manden
 mandenlo
 manderecha
@@ -45129,7 +45091,6 @@ medir
 medirlo
 medirme
 medirnos
-mediros
 medirte
 medis
 medita
@@ -47077,7 +47038,6 @@ mordednos
 mordedor
 mordedura
 mordele
-mordeme
 mordenos
 mordente
 morder
@@ -47740,7 +47700,6 @@ murceguillo
 murceo
 murciano
 murciar
-murcie
 murciegalo
 murcielago
 murcielaguina
@@ -49236,12 +49195,10 @@ oir
 oirla
 oirle
 oirlo
-oirme
 oirmelo
 oirnos
 oirnoslo
 oiroslo
-oirselo
 oirte
 oirtelo
 ois
@@ -49995,7 +49952,6 @@ ovarian
 ovarico
 ovario
 ovaron
-ovarse
 ovas
 ovase
 ovaseis
@@ -50493,7 +50449,6 @@ pancreas
 pancreatico
 panda
 pandad
-pandan
 pandar
 pandas
 pande
@@ -50798,7 +50753,6 @@ pararnos
 pararon
 pararos
 pararrayo
-pararse
 paras
 parase
 paraselene
@@ -50813,7 +50767,6 @@ parasito
 parasol
 paraste
 parata
-parate
 paraulata
 parazonio
 parca
@@ -50949,7 +50902,6 @@ parodie
 parodista
 parola
 parolina
-paron
 paronimia
 paronimo
 paronomasia
@@ -51554,13 +51506,10 @@ pedireis
 pediria
 pedirian
 pedirla
-pedirle
 pedirlo
 pedirme
 pedirnos
 pediros
-pedirse
-pedirte
 pedis
 pediste
 pedo
@@ -51715,7 +51664,6 @@ pelambro
 pelamos
 pelan
 pelandusca
-pelaos
 pelar
 pelargonio
 pelarme
@@ -51725,7 +51673,6 @@ pelarte
 pelas
 pelasgico
 pelasgo
-pelate
 pelaza
 peldano
 pele
@@ -51748,7 +51695,6 @@ pelelo
 pelemos
 pelen
 pelendengue
-pelenlo
 peleon
 pelete
 peletero
@@ -53055,7 +53001,6 @@ piporro
 pipote
 pique
 piquele
-piquelo
 piquenle
 piquenlo
 piquero
@@ -53148,7 +53093,6 @@ pisare
 pisaren
 pisaria
 pisaron
-pisarse
 pisas
 pisase
 pisasen
@@ -53696,7 +53640,6 @@ podare
 podaren
 podaria
 podaron
-podarse
 podas
 podase
 podasen
@@ -54004,7 +53947,6 @@ ponerme
 ponermelo
 ponernos
 ponernoslo
-poneros
 poneroslo
 ponerselo
 ponerte
@@ -54043,7 +53985,6 @@ poniente
 ponimiento
 ponle
 ponlevi
-ponlo
 ponmelo
 ponnoslo
 ponselo
@@ -56375,7 +56316,6 @@ querube
 querubico
 querubin
 querusco
-ques
 quesada
 quesear
 quesee
@@ -59778,11 +59718,9 @@ sacarian
 sacarificar
 sacarifico
 sacarino
-sacarle
 sacaroideo
 sacaron
 sacarosa
-sacarse
 sacas
 sacase
 sacasebo
@@ -60149,7 +60087,6 @@ saltando
 saltandole
 saltanejoso
 saltaojos
-saltaos
 saltapajas
 saltaparedes
 saltaprados
@@ -60728,7 +60665,6 @@ secandotelo
 secano
 secansa
 secante
-secaos
 secar
 secaral
 secarle
@@ -60738,7 +60674,6 @@ secaros
 secarral
 secarte
 secas
-secate
 secatura
 seccion
 seccionador
@@ -61166,7 +61101,6 @@ sentandoos
 sentandote
 sentar
 sentas
-sentate
 sente
 sentemonos
 sentenciador
@@ -61250,7 +61184,6 @@ sequenlo
 sequense
 sequeral
 sequero
-sequese
 sequia
 sequito
 sequizo
@@ -61483,7 +61416,6 @@ sheriffs
 show
 shows
 si
-sia
 sialismo
 siames
 sian
@@ -62213,7 +62145,6 @@ solaria
 solariego
 solarium
 solaron
-solarse
 solas
 solase
 solasen
@@ -62453,7 +62384,6 @@ sonarnos
 sonaros
 sonarte
 sonas
-sonate
 sonatina
 sonda
 sondable
@@ -64475,7 +64405,6 @@ tener
 tenerla
 tenerle
 tenerlo
-tenerme
 tenernos
 teneros
 tenerse
@@ -67044,7 +66973,6 @@ trochemoche
 trocir
 trociscar
 trocisco
-trocito
 trocla
 troco
 trocoide
@@ -67669,7 +67597,6 @@ unicornio
 unid
 unidamente
 unidimensional
-unidle
 unidlo
 unidme
 unidnos
@@ -67716,7 +67643,6 @@ unirla
 unirlo
 unirme
 unirnos
-uniros
 unirse
 unis
 unisexual
@@ -67890,7 +67816,6 @@ usen
 usenle
 usenlo
 usenme
-usennos
 usenos
 usense
 usese
@@ -68111,7 +68036,6 @@ valernos
 valeros
 valerosamente
 valeroso
-valerte
 valete
 valetudinario
 valga
@@ -68469,7 +68393,6 @@ velarizar
 velarizo
 velarla
 velarle
-velarlo
 velarme
 velarnos
 velaros
@@ -69869,9 +69792,7 @@ yen
 yendo
 yendome
 yendonos
-yendoos
 yendose
-yendote
 yente
 yerba
 yerbajo

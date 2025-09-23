@@ -320,7 +320,6 @@ gastly
 gastrodon
 genesect
 gengar
-geodud
 gholdengo
 gible
 gigalith
@@ -332,7 +331,6 @@ glalie
 glameow
 glastrier
 gligar
-glimmt
 glimora
 gliscor
 gloom
@@ -515,7 +513,6 @@ machop
 magby
 magcargo
 magearna
-magikrp
 magmar
 magmortar
 magnemite
@@ -813,7 +810,6 @@ slurpuff
 smeargle
 smoliv
 smoochum
-snasel
 sneasler
 snivy
 snom
@@ -905,7 +901,6 @@ torkoal
 tornadus
 torracat
 torterra
-totodle
 toucannon
 toxapex
 toxel

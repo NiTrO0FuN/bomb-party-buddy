@@ -4,9 +4,7 @@ absol
 adebom
 aeromite
 aeropteryx
-affiti
 aflamanoir
-agiluza
 airmure
 akwakwak
 alakazam
@@ -89,8 +87,6 @@ braisillon
 branette
 brasegali
 briduradon
-brimano
-brimova
 brindibou
 britzigel
 brocelome
@@ -175,7 +171,6 @@ coronospa
 cosmog
 cosmovum
 cotovol
-cottini
 cottomi
 couafarel
 couaneton
@@ -240,8 +235,6 @@ dracolosse
 dragmara
 draieul
 drakkarmin
-drapfel
-drapion
 drascore
 drattak
 dummimisel
@@ -260,8 +253,6 @@ eisenfalter
 eisenfels
 eisenhals
 eisenhand
-eisenhaupt
-eisenkrieger
 eisenrad
 ekaiser
 elecsprint
@@ -277,7 +268,6 @@ endynalos
 engloutyran
 entei
 eoko
-epitaff
 escargaume
 escroco
 espinodon
@@ -288,7 +278,6 @@ evoli
 exagide
 excavarenne
 excelangue
-famieps
 fantominus
 farfaduvet
 farfuret
@@ -327,12 +316,10 @@ flotajou
 flotoutan
 fluvetin
 foretress
-forgita
 fouinar
 fouinette
 fragilady
 fragrunz
-friedwuff
 frison
 frospino
 froussardine
@@ -340,7 +327,6 @@ fuentente
 fulguris
 funecire
 furaiglon
-furienblitz
 galegon
 galekid
 galeking
@@ -368,8 +354,6 @@ goelise
 goinfrex
 golemastoc
 golgopathe
-gorgasonn
-gortrom
 goupelin
 goupix
 gouroutan
@@ -448,18 +432,15 @@ karaclee
 katagami
 katapuldra
 kecleon
-keilflamme
 keldeo
 keradar
 keunotor
 kickerlo
 kicklee
 kirlia
-kleptifux
 klibbe
 klonkett
 klopptopus
-knapfel
 knarbon
 knattatox
 knattox
@@ -499,13 +480,11 @@ latios
 lauchzelot
 lecryodon
 lectragon
-legios
 leopardus
 lepidonille
 leuphorie
 leveinard
 leviator
-lewzor
 lextremo
 lianaja
 libegon
@@ -622,7 +601,6 @@ monaflemit
 monetigo
 monorpale
 montecarbo
-mopex
 morpeko
 morpheo
 mortcha
@@ -685,7 +663,6 @@ okeoke
 olangaar
 olini
 olithena
-olivinio
 oniglali
 onix
 opermine
@@ -744,7 +721,6 @@ plumeline
 poichigeon
 poissirene
 poissoroy
-pokusan
 polagriffe
 polarhume
 polaross
@@ -767,7 +743,6 @@ psykokwak
 psystigri
 ptera
 ptiravi
-ptitart
 ptyranidur
 pyrax
 pyroli
@@ -825,7 +800,6 @@ rubombelle
 sabelette
 sablaireau
 salameche
-salanga
 salmagnis
 saltigant
 sanaconda
@@ -847,14 +821,12 @@ scobolide
 scorplane
 scorvol
 scrutella
-sedisal
 seleroc
 sensect
 sepiatop
 sepiatroce
 seracrawl
 serpang
-servol
 seviper
 shaofouine
 sharpedo
@@ -898,7 +870,6 @@ steelix
 strassie
 sucreine
 sucroquin
-suelord
 suicune
 sulfura
 symbios
@@ -980,7 +951,6 @@ voldi
 voltali
 voltorbe
 voltrean
-voltrel
 vorasterie
 vortente
 vostourno
