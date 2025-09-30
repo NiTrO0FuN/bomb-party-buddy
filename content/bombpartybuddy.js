@@ -1,5 +1,5 @@
 function isBombPartyFrame() {
-  return /https:\/\/[a-z]*.jklm.fun\/games\/bombparty\/$/.test(document.location);
+  return /https:\/\/[a-z]*\.jklm\.fun\/games\/bombparty\/$/.test(document.location);
 }
 
 function getInput() {
