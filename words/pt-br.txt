@@ -71,7 +71,6 @@ abafe
 abafei
 abafeis
 abafem
-abafemo
 abafemos
 abafes
 abafo
@@ -6437,7 +6436,6 @@ acusados
 acusai
 acusais
 acusam
-acusamo
 acusamos
 acusando
 acusar
@@ -8171,7 +8169,6 @@ adrenalinas
 adrenalino
 adrenalinos
 adriana
-adriano
 adriatico
 adro
 adroaldo
@@ -10387,7 +10384,6 @@ afortunado
 afortunados
 afresco
 afrescos
-africa
 africana
 africanas
 africanizada
@@ -12070,7 +12066,6 @@ aguariam
 aguariamos
 aguarias
 aguarieis
-aguarmo
 aguarmos
 aguas
 aguasse
@@ -14773,7 +14768,6 @@ alocados
 alocai
 alocais
 alocam
-alocamo
 alocamos
 alocando
 alocar
@@ -16218,7 +16212,6 @@ amantissima
 amantissimas
 amantissimo
 amantissimos
-amapa
 amar
 amara
 amaral
@@ -18488,7 +18481,6 @@ andrajoso
 andrajosos
 andre
 andrea
-andromeda
 anedota
 anedotario
 anedotarios
@@ -19258,7 +19250,6 @@ anote
 anotei
 anoteis
 anotem
-anotemo
 anotemos
 anotes
 anoto
@@ -19317,7 +19308,6 @@ ansiedade
 ansiedades
 ansiei
 ansieis
-ansiemo
 ansiemos
 ansiosa
 ansiosamente
@@ -23680,7 +23670,6 @@ apurados
 apurai
 apurais
 apuram
-apuramo
 apuramos
 apurando
 apurar
@@ -24058,7 +24047,6 @@ araste
 arastes
 araucaria
 araucarias
-araujo
 araujos
 arauto
 arautos
@@ -24891,7 +24879,6 @@ arme
 armei
 armeis
 armem
-armemo
 armemos
 armenia
 armenio
@@ -28492,7 +28479,6 @@ asseado
 asseados
 asseai
 asseais
-asseamo
 asseamos
 asseando
 assear
@@ -32451,7 +32437,6 @@ ature
 aturei
 atureis
 aturem
-aturemo
 aturemos
 atures
 aturo
@@ -34124,7 +34109,6 @@ aviai
 aviais
 aviam
 aviamento
-aviamo
 aviamos
 aviando
 aviao
@@ -36966,7 +36950,6 @@ baseado
 baseados
 baseai
 baseais
-baseamo
 baseamos
 baseando
 basear
@@ -39371,7 +39354,6 @@ bolado
 bolai
 bolais
 bolam
-bolamo
 bolamos
 bolando
 bolao
@@ -40004,7 +39986,6 @@ borrifou
 borro
 borroes
 borrou
-bosforo
 bosnia
 bosque
 bosqueja
@@ -40093,7 +40074,6 @@ botariam
 botariamos
 botarias
 botarieis
-botarmo
 botarmos
 botas
 botasse
@@ -46035,7 +46015,6 @@ cassado
 cassai
 cassais
 cassam
-cassamo
 cassamos
 cassando
 cassar
@@ -52280,7 +52259,6 @@ coaxado
 coaxai
 coaxais
 coaxam
-coaxamo
 coaxamos
 coaxando
 coaxar
@@ -63641,7 +63619,6 @@ coroe
 coroei
 coroeis
 coroem
-coroemo
 coroemos
 coroes
 coroinha
@@ -66854,7 +66831,6 @@ cure
 curei
 cureis
 curem
-curemo
 curemos
 cures
 curia
@@ -71000,7 +70976,6 @@ deixe
 deixei
 deixeis
 deixem
-deixemo
 deixemos
 deixes
 deixo
@@ -94721,7 +94696,6 @@ ecoariam
 ecoariamos
 ecoarias
 ecoarieis
-ecoarmo
 ecoarmos
 ecoas
 ecoasse
@@ -95923,7 +95897,6 @@ eletrostatica
 eletrostaticas
 eletrostatico
 eletrostaticos
-eleusis
 eleva
 elevacao
 elevada
@@ -95991,7 +95964,6 @@ elevou
 eliana
 eliane
 eliezer
-eligio
 elimina
 eliminacao
 eliminacoes
@@ -104282,7 +104254,6 @@ enfiados
 enfiai
 enfiais
 enfiam
-enfiamo
 enfiamos
 enfiando
 enfiar
@@ -122737,7 +122708,6 @@ exale
 exalei
 exaleis
 exalem
-exalemo
 exalemos
 exales
 exalo
@@ -124062,7 +124032,6 @@ exilado
 exilai
 exilais
 exilam
-exilamo
 exilamos
 exilando
 exilar
@@ -128161,7 +128130,6 @@ fatiguem
 fatiguemo
 fatiguemos
 fatigues
-fatima
 fatio
 fatiou
 fato
@@ -130265,7 +130233,6 @@ firmais
 firmam
 firmamento
 firmamentos
-firmamo
 firmamos
 firmando
 firmar
@@ -130548,7 +130515,6 @@ fixariam
 fixariamos
 fixarias
 fixarieis
-fixarmo
 fixarmos
 fixas
 fixasse
@@ -132014,7 +131980,6 @@ formalizo
 formalizou
 formalmente
 formam
-formamo
 formamos
 formanda
 formandas
@@ -133414,7 +133379,6 @@ fraudulenta
 fraudulentas
 fraudulento
 fraudulentos
-frea
 freada
 freadas
 freado
@@ -134389,7 +134353,6 @@ fulgias
 fulgido
 fulgidos
 fulgieis
-fulgimo
 fulgimos
 fulgindo
 fulgir
@@ -136706,7 +136669,6 @@ geardes
 gearei
 geareis
 gearem
-gearemo
 gearemos
 geares
 gearia
@@ -137062,8 +137024,6 @@ geopolitica
 geopoliticas
 geopolitico
 geopoliticos
-george
-georgia
 geotropica
 geotropicas
 geotropico
@@ -137927,7 +137887,6 @@ gore
 gorei
 goreis
 gorem
-goremo
 goremos
 gores
 gorila
@@ -138037,7 +137996,6 @@ goste
 gostei
 gosteis
 gostem
-gostemo
 gostemos
 gostes
 gosto
@@ -139407,7 +139365,6 @@ guiais
 guiam
 guiamo
 guiamos
-guiana
 guianas
 guiando
 guiar
@@ -145353,7 +145310,6 @@ incoados
 incoai
 incoais
 incoam
-incoamo
 incoamos
 incoando
 incoar
@@ -145374,7 +145330,6 @@ incoariam
 incoariamos
 incoarias
 incoarieis
-incoarmo
 incoarmos
 incoas
 incoasse
@@ -150559,7 +150514,6 @@ inteiricos
 inteiro
 inteiros
 inteirou
-intel
 inteleccao
 intelectiva
 intelectivas
@@ -154456,7 +154410,6 @@ judiado
 judiai
 judiais
 judiam
-judiamo
 judiamos
 judiando
 judiar
@@ -156911,7 +156864,6 @@ lenhadoras
 lenhadores
 lenho
 lenhos
-lenin
 lenta
 lentamente
 lentas
@@ -156975,7 +156927,6 @@ lesados
 lesai
 lesais
 lesam
-lesamo
 lesamos
 lesando
 lesao
@@ -157913,7 +157864,6 @@ limpadores
 limpai
 limpais
 limpam
-limpamo
 limpamos
 limpando
 limpar
@@ -159440,7 +159390,6 @@ lutariam
 lutariamos
 lutarias
 lutarieis
-lutarmo
 lutarmos
 lutas
 lutasse
@@ -160857,7 +160806,6 @@ mande
 mandei
 mandeis
 mandem
-mandemo
 mandemos
 mandes
 mandibula
@@ -161615,7 +161563,6 @@ mapeavas
 mapeaveis
 mapeei
 mapeeis
-mapeemo
 mapeemos
 mapeia
 mapeiam
@@ -163426,7 +163373,6 @@ medievalismos
 medievalista
 medievalistas
 medievo
-medimo
 medimos
 medindo
 medio
@@ -170194,7 +170140,6 @@ nobilitadora
 nobilitadoras
 nobilitadores
 nobre
-nobrega
 nobremente
 nobres
 nobreza
@@ -173112,7 +173057,6 @@ omitamos
 omitas
 omite
 omitem
-omitemo
 omites
 omiti
 omitia
@@ -173171,7 +173115,6 @@ ondeado
 ondeados
 ondeai
 ondeais
-ondeamo
 ondeamos
 ondeando
 ondeante
@@ -175244,7 +175187,6 @@ oxide
 oxidei
 oxideis
 oxidem
-oxidemo
 oxidemos
 oxides
 oxido
@@ -175753,7 +175695,6 @@ pajea
 pajeado
 pajeai
 pajeais
-pajeamo
 pajeamos
 pajeando
 pajear
@@ -183181,7 +183122,6 @@ pique
 piquei
 piqueis
 piquem
-piquemo
 piquemos
 piquenique
 piqueniques
@@ -184666,7 +184606,6 @@ polones
 polonesa
 polonesas
 poloneses
-polonia
 polos
 polpa
 polpas
@@ -185270,7 +185209,6 @@ porteiro
 porteiros
 porteis
 portem
-portemo
 portemos
 portento
 portentos
@@ -189358,7 +189296,6 @@ primado
 primai
 primais
 primam
-primamo
 primamos
 primando
 primar
@@ -192773,7 +192710,6 @@ prumo
 prumos
 prurido
 pruridos
-prussia
 prussiana
 prussianas
 prussiano
@@ -206253,7 +206189,6 @@ remoe
 remoei
 remoeis
 remoem
-remoemo
 remoemos
 remoendo
 remoer
@@ -213394,7 +213329,6 @@ rezariam
 rezariamos
 rezarias
 rezarieis
-rezarmo
 rezarmos
 rezas
 rezasse
@@ -214025,7 +213959,6 @@ rocados
 rocai
 rocais
 rocam
-rocamo
 rocamos
 rocando
 rocar
@@ -215140,7 +215073,6 @@ rouca
 roucas
 rouco
 roucos
-rouen
 roupa
 roupao
 roupas
@@ -215206,7 +215138,6 @@ rua
 ruas
 rubens
 rubi
-rubicao
 rubis
 rublo
 rublos
@@ -216508,7 +216439,6 @@ salgados
 salgai
 salgais
 salgam
-salgamo
 salgamos
 salgando
 salgar
@@ -221598,7 +221528,6 @@ sitiados
 sitiai
 sitiais
 sitiam
-sitiamo
 sitiamos
 sitiando
 sitiante
@@ -230688,7 +230617,6 @@ terem
 teremo
 teremos
 teres
-teresa
 tergiversacao
 tergiversacoes
 teria
@@ -232707,7 +232635,6 @@ tossiamos
 tossias
 tossido
 tossieis
-tossimo
 tossimos
 tossindo
 tossir
@@ -238108,7 +238035,6 @@ unte
 untei
 unteis
 untem
-untemo
 untemos
 untes
 unto

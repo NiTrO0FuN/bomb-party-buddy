@@ -12,6 +12,7 @@ aligatueur
 altaria
 ama-ama
 amagara
+amassel
 amonistar
 amonita
 amphinobi
@@ -340,10 +341,10 @@ gaulet
 gaunux
 genesect
 geolithe
-geosali
 germignon
 gierspenst
 gigalithe
+gigansel
 girafarig
 giratina
 givrali
@@ -801,7 +802,6 @@ sabelette
 sablaireau
 salameche
 salmagnis
-saltigant
 sanaconda
 sancoki
 sandfell
@@ -822,6 +822,7 @@ scorplane
 scorvol
 scrutella
 seleroc
+selutin
 sensect
 sepiatop
 sepiatroce

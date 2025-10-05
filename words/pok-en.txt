@@ -281,9 +281,10 @@ ferrothorn
 fezandipiti
 fidough
 finizen
+finneon
 flaaffy
 flabebe
-flaigo
+flamigo
 flapple
 flareon
 fletchinder
@@ -295,7 +296,6 @@ floragato
 florges
 flutter-mane
 flygon
-fnneon
 fomantis
 foongus
 forretress
@@ -331,7 +331,7 @@ glalie
 glameow
 glastrier
 gligar
-glimora
+glimmora
 gliscor
 gloom
 gogoat

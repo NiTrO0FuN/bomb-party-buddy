@@ -9297,7 +9297,6 @@ algues
 alias
 alibi
 alibis
-alicant
 alicante
 alicantes
 alicants
@@ -29698,7 +29697,6 @@ bisquassions
 bisquat
 bisquates
 bisque
-bisquee
 bisquees
 bisquent
 bisquer
@@ -30711,7 +30709,6 @@ blesassions
 blesat
 blesates
 blese
-blesee
 blesees
 blesement
 blesements
@@ -34173,7 +34170,6 @@ bouturez
 bouturiez
 bouturions
 bouturons
-bouvard
 bouverie
 bouveries
 bouvet
@@ -35337,7 +35333,6 @@ briard
 briards
 bribe
 bribes
-bric
 brick
 bricks
 bricola
@@ -38425,7 +38420,6 @@ caecum
 caecums
 caesium
 caesiums
-caetera
 cafard
 cafarda
 cafardage
@@ -43271,7 +43265,6 @@ cascatelles
 case
 casee
 casees
-casefia
 casefiai
 casefiaient
 casefiais
@@ -45345,7 +45338,6 @@ cetace
 cetaces
 cetane
 cetanes
-cetera
 ceterac
 ceteracs
 cetoine
@@ -48909,7 +48901,6 @@ chipions
 chipolata
 chipolatas
 chipons
-chipot
 chipota
 chipotage
 chipotages
@@ -50000,7 +49991,6 @@ chronometrons
 chronophotographie
 chronophotographies
 chronos
-chrouma
 chroumai
 chroumaient
 chroumais
@@ -50015,7 +50005,6 @@ chroumassiez
 chroumassions
 chroumat
 chroumates
-chroume
 chroumee
 chroumees
 chroument
@@ -51966,7 +51955,6 @@ claustrophobie
 claustrophobies
 clausule
 clausules
-clausus
 clava
 clavai
 clavaient
@@ -59437,12 +59425,9 @@ conpressassiez
 conpressassions
 conpressat
 conpressates
-conpresse
 conpressee
 conpressees
 conpressent
-conpresser
-conpressera
 conpresserai
 conpresseraient
 conpresserais
@@ -65834,7 +65819,6 @@ couvrites
 couvrons
 couvrue
 couvrues
-couvrus
 covariance
 covariances
 covendeur
@@ -88353,7 +88337,6 @@ deontologie
 deontologies
 deontologique
 deontologiques
-dep
 depailla
 depaillage
 depaillages
@@ -103275,7 +103258,6 @@ dinguassions
 dinguat
 dinguates
 dingue
-dinguee
 dinguees
 dinguent
 dinguer
@@ -106987,7 +106969,6 @@ douze
 douzieme
 douziemement
 douziemes
-dow
 doxologie
 doxologies
 doyen
@@ -107747,7 +107728,6 @@ drus
 dry
 dryade
 dryades
-dst
 du
 dual
 duale
@@ -122804,7 +122784,6 @@ encyclopedique
 encyclopediques
 encyclopediste
 encyclopedistes
-end
 endauba
 endaubai
 endaubaient
@@ -141794,7 +141773,6 @@ factitif
 factitifs
 factitive
 factitives
-facto
 factorage
 factorages
 factorerie
@@ -142512,7 +142490,6 @@ faneur
 faneurs
 faneuse
 faneuses
-faneux
 fanez
 fanfare
 fanfares
@@ -148926,7 +148903,6 @@ forficule
 forficules
 forfimes
 forfirent
-forfis
 forfisse
 forfissent
 forfisses
@@ -151985,7 +151961,6 @@ frirais
 frirait
 friras
 frire
-frirent
 frirez
 fririez
 fririons
@@ -152087,7 +152062,6 @@ frisquet
 frisquets
 frisquette
 frisquettes
-frisse
 frissent
 frissiez
 frissions
@@ -155467,7 +155441,6 @@ gazais
 gazait
 gazames
 gazant
-gazante
 gazantes
 gazants
 gazas
@@ -162139,7 +162112,6 @@ grouillions
 grouillons
 grouillot
 grouillots
-groulla
 groullai
 groullames
 groullas
@@ -163352,7 +163324,6 @@ hablat
 hablates
 hable
 hablee
-hablees
 hablent
 habler
 hablera
@@ -165273,8 +165244,6 @@ hendecasyllabes
 henne
 hennes
 henni
-hennie
-hennies
 hennimes
 hennin
 hennins
@@ -167598,7 +167567,6 @@ hululassions
 hululat
 hululates
 hulule
-hululee
 hululees
 hululement
 hululements
@@ -179121,7 +179089,6 @@ iodlassions
 iodlat
 iodlates
 iodle
-iodlee
 iodlees
 iodlent
 iodler
@@ -179225,7 +179192,6 @@ ioulat
 ioulates
 ioule
 ioulee
-ioulees
 ioulent
 iouler
 ioulera
@@ -179857,7 +179823,6 @@ isotope
 isotopes
 isotopique
 isotopiques
-ispell
 israelien
 israelienne
 israeliennes
@@ -180174,7 +180139,6 @@ jacots
 jacquard
 jacquards
 jacque
-jacquee
 jacquees
 jacquer
 jacquerie
@@ -181233,7 +181197,6 @@ jodlassions
 jodlat
 jodlates
 jodle
-jodlee
 jodlent
 jodler
 jodlera
@@ -182256,7 +182219,6 @@ jutassions
 jutat
 jutates
 jute
-jutees
 jutent
 juter
 jutera
@@ -182734,7 +182696,6 @@ koala
 koalas
 kobold
 kobolds
-koch
 koine
 kola
 kolas
@@ -185214,7 +185175,6 @@ lesames
 lesant
 lesante
 lesantes
-lesants
 lesas
 lesasse
 lesassent
@@ -190094,7 +190054,6 @@ maculons
 madame
 madapolam
 madapolams
-made
 madecasse
 madecasses
 madefia
@@ -191052,7 +191011,6 @@ males
 malfacon
 malfacons
 malfaire
-malfais
 malfaisaient
 malfaisais
 malfaisait
@@ -192475,7 +192433,6 @@ maories
 maoris
 maousse
 maousses
-maoux
 mappemonde
 mappemondes
 maqua
@@ -196964,7 +196921,6 @@ mentholees
 mentholes
 menthols
 menti
-mentie
 menties
 mentiez
 mentimes
@@ -198482,7 +198438,6 @@ michelines
 miches
 micheton
 michetons
-mickey
 micmac
 micmacs
 micocoulier
@@ -199107,7 +199062,6 @@ minames
 minant
 minante
 minantes
-minants
 minaret
 minarets
 minas
@@ -200194,7 +200148,6 @@ mixtionnons
 mixtions
 mixture
 mixtures
-mlle
 mnemonique
 mnemoniques
 mnemotechnie
@@ -200578,7 +200531,6 @@ modulions
 modulons
 modulor
 modulors
-modus
 moelle
 moelles
 moelleuse
@@ -201079,7 +201031,6 @@ moloch
 molochs
 molosse
 molosses
-mols
 moly
 molybdene
 molybdenes
@@ -204550,7 +204501,6 @@ musettes
 museum
 museums
 musez
-music
 musical
 musicale
 musicalement
@@ -206434,7 +206384,6 @@ nervuriez
 nervurions
 nervurons
 nes
-nescafe
 nescafes
 nestorien
 nestorienne
@@ -208424,7 +208373,6 @@ nuisites
 nuisons
 nuit
 nuitamment
-nuite
 nuitee
 nuites
 nuits
@@ -217355,7 +217303,6 @@ parerassent
 parerasses
 parerassiez
 parerassions
-parerat
 parerates
 parere
 parerent
@@ -218906,7 +218853,6 @@ pastoureaux
 pastourelle
 pastourelles
 pat
-pata
 patache
 pataches
 patachon
@@ -218948,9 +218894,7 @@ patafiolez
 patafioliez
 patafiolions
 patafiolons
-patai
 pataient
-patais
 patait
 pataphysique
 pataphysiques
@@ -219156,7 +219100,6 @@ pates
 pateuse
 pateuses
 pateux
-patez
 pathetique
 pathetiquement
 pathetiques
@@ -220033,7 +219976,6 @@ paysans
 payse
 payses
 peage
-peageer
 peageere
 peageeres
 peageers
@@ -220181,7 +220123,6 @@ pecheur
 pecheurs
 pecheuse
 pecheuses
-pecheux
 pechez
 pechiez
 pechions
@@ -223967,7 +223908,6 @@ peu
 peucedan
 peucedans
 peuchere
-peuh
 peuhl
 peul
 peuls
@@ -228015,7 +227955,6 @@ plausibilites
 plausible
 plausiblement
 plausibles
-play
 playon
 playons
 pleban
@@ -231473,7 +231412,6 @@ postscolaire
 postscolaires
 postsonorisation
 postsonorisations
-postsynchronisa
 postsynchronisai
 postsynchronisaient
 postsynchronisais
@@ -231964,7 +231902,6 @@ poulinons
 pouliot
 pouliots
 poulot
-poulote
 poulotes
 poulots
 poulpe
@@ -261154,7 +261091,6 @@ renformiras
 renformirasse
 renformirassent
 renformirasses
-renformirassiez
 renformirassions
 renformirat
 renformirates
@@ -264870,7 +264806,6 @@ requerriez
 requerrions
 requerrons
 requerront
-requeru
 requerue
 requerues
 requerus
@@ -279858,7 +279793,6 @@ semblassions
 semblat
 semblates
 semble
-semblee
 semblent
 sembler
 semblera
@@ -281413,7 +281347,6 @@ shootiez
 shootions
 shootons
 shoots
-shoping
 shopings
 shopping
 shoppings
@@ -281491,7 +281424,6 @@ sibyllins
 sic
 sicaire
 sicaires
-sicav
 siccatif
 siccatifs
 siccative
@@ -290147,9 +290079,7 @@ suffisses
 suffissiez
 suffissions
 suffit
-suffite
 suffites
-suffits
 suffixa
 suffixai
 suffixaient
@@ -300276,7 +300206,6 @@ thibaude
 thibaudes
 thioalcool
 thioalcools
-thomas
 thomiste
 thomistes
 thon
@@ -300796,7 +300725,6 @@ tintinnabulez
 tintinnabuliez
 tintinnabulions
 tintinnabulons
-tintins
 tintions
 tintons
 tintouin
@@ -303514,7 +303442,6 @@ toutes
 toutim
 toutime
 toutimes
-toutims
 toutou
 toutous
 touts
@@ -305152,7 +305079,6 @@ translitereras
 translitererent
 translitererez
 translitereriez
-translitererions
 translitererons
 translitereront
 transliteres
@@ -307557,8 +307483,6 @@ trimballions
 trimballons
 trimbalons
 trime
-trimee
-trimees
 triment
 trimer
 trimera
@@ -316187,7 +316111,6 @@ viseur
 viseurs
 viseuse
 viseuses
-viseux
 visez
 visibilite
 visibilites
@@ -316571,7 +316494,6 @@ vitriolions
 vitriolons
 vitriols
 vitrions
-vitro
 vitroceramique
 vitroceramiques
 vitrons
@@ -316643,7 +316565,6 @@ vivat
 vivats
 vive
 vivement
-vivendi
 vivent
 vives
 viveur
@@ -318116,7 +318037,6 @@ wallonismes
 wallonne
 wallonnes
 wallons
-walter
 wapiti
 wapitis
 wargame
@@ -318215,7 +318135,6 @@ wilayas
 wilfried
 william
 williams
-willy
 winch
 winches
 winchester
@@ -318239,7 +318158,6 @@ wombats
 won
 woofer
 woofers
-world
 wormien
 wormiens
 wurmien
@@ -318332,7 +318250,6 @@ yaks
 yang
 yankee
 yankees
-yannick
 yaourt
 yaourtiere
 yaourtieres
@@ -318756,7 +318673,6 @@ ziguat
 ziguates
 zigue
 ziguee
-ziguees
 ziguent
 ziguer
 ziguera
